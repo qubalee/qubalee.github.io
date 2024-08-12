@@ -1,19 +1,83 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <title>My GitHub Homepage</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Alqubalee's webpage</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      background-color: #f4f4f4;
+    }
+
+    .profile {
+      text-align: center;
+      margin-bottom: 30px;
+    }
+
+    .profile img {
+      width: 150px;
+      height: 150px;
+      border-radius: 50%;
+      object-fit: cover;
+      margin-bottom: 20px;
+    }
+
+    .profile h1 {
+      font-size: 24px;
+      margin-bottom: 10px;
+    }
+
+    .icons {
+      display: flex;
+      justify-content: center;
+      gap: 20px;
+    }
+
+    .icon {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      text-decoration: none;
+      color: #333;
+    }
+
+    .icon i {
+      font-size: 30px;
+      margin-bottom: 10px;
+    }
+
+    .icon span {
+      font-size: 14px;
+    }
+  </style>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
 </head>
 <body>
-  <h1>Welcome to My GitHub Homepage</h1>
-  
-  <p>This page is currently under development.</p>
-  
-  <h2>Contact Information</h2>
-  <ul>
-    <li><a href="https://github.com/qubalee">GitHub Profile</a></li>
-    <li><a href="mailto:abdullah.alqubalee@kfupm.edu.sa">Email</a></li>
-    <li><a href="https://linkedin.com/in/qubalee">LinkedIn</a></li>
-    <!-- Add more contact links as needed -->
-  </ul>
+  <div class="profile">
+    <img src="https://cpg.kfupm.edu.sa/wp-content/uploads/2017/01/alqubalee.jpg" alt="Abdullah Alqubalee">
+    <h1>Abdullah Alqubalee</h1>
+  </div>
+  <div class="icons">
+    <a href="#" class="icon">
+      <i class="fas fa-file-alt"></i>
+      <span>Resume</span>
+    </a>
+    <a href="https://www.linkedin.com/in/qubalee/" class="icon">
+      <i class="fab fa-linkedin"></i>
+      <span>LinkedIn</span>
+    </a>
+    <a href="https://github.com/qubalee" class="icon">
+      <i class="fab fa-github"></i>
+      <span>GitHub</span>
+    </a>
+  </div>
 </body>
 </html>
