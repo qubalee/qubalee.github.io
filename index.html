@@ -22,11 +22,13 @@
       margin-bottom: 30px;
     }
 
-  .profile img {
-  width: 70vw; /* Responsive width */
-  max-width: 250px; /* Max width for larger screens */
-  height: auto; /* Maintain aspect ratio */
-  }
+    .profile img {
+      width: 250px;
+      height: 250px;
+      border-radius: 50%;
+      object-fit: cover;
+      margin-bottom: 20px;
+    }
 
     .profile h1 {
       font-size: 24px;
@@ -34,16 +36,19 @@
     }
 
 
-  .icons {
-  display: flex;
-  flex-wrap: wrap; /* Allow wrapping on smaller screens */
-  justify-content: center;
-  gap: 20px;
-  }
+    .icons {
+      display: flex;
+      justify-content: center;
+      gap: 20px;
+    }
 
-  .icon {
-  width: 80px; /* Fixed width for consistent sizing */
-  }
+    .icon {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      text-decoration: none;
+      color: #333;
+    }
 
     .icon i {
       font-size: 30px;
