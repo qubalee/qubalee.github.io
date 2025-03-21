@@ -62,23 +62,23 @@ author:
   avatar : "/assets/images/abdullah.jpg"
   bio    : "A PhD Geoscience Researcher"
   links:
-    - label: "Website"
+    - label: "KFUPM"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://pure.kfupm.edu.sa/en/persons/abdullah-alqubalee"
     - label: "linkedin"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fa fa-linkedin-square"
       url: "https://linkedin.com/in/qubalee"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/qubalee"
-    - label: "Instagram"
+    - label: "Researchgate"
       icon: "fab fa-fw fa-researchgate"
       url: "https://www.researchgate.net/profile/Abdullah-Alqubalee"
 
 footer:
   links:
     - label: "linkedin"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fa fa-linkedin-square"
       url: "https://linkedin.com/in/qubalee"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
