@@ -63,28 +63,28 @@ author:
   bio    : "A PhD Geoscience Researcher"
   links:
   #  - label: "KFUPM Pure"
-      icon: "fas fa-link"
+     - icon: "fas fa-link"
       url: "https://pure.kfupm.edu.sa/en/persons/abdullah-alqubalee"
    # - label: "Qubalee"
-      icon: "fab fa-linkedin-in"
+    -  icon: "fab fa-linkedin-in"
       url: "https://linkedin.com/in/qubalee"
  #   - label: "Qubalee"
-      icon: "fab fa-fw fa-github"
+    -  icon: "fab fa-fw fa-github"
       url: "https://github.com/qubalee"
   #  - label: "Alqubalee"
-      icon: "fab fa-fw fa-researchgate"
+     - icon: "fab fa-fw fa-researchgate"
       url: "https://www.researchgate.net/profile/Abdullah-Alqubalee"
 
 footer:
   links:
  #   - label: "Alqubalee"
-      icon: "fab fa-linkedin-in"
+    - icon: "fab fa-linkedin-in"
       url: "https://linkedin.com/in/qubalee"
  #   - label: "Qubalee"
-      icon: "fab fa-fw fa-github"
+     - icon: "fab fa-fw fa-github"
       url: "https://github.com/"
  #   - label: "Alqubalee"
-      icon: "fab fa-fw fa-researchgate"
+     - icon: "fab fa-fw fa-researchgate"
       url: "https://www.researchgate.net/profile/Abdullah-Alqubalee"
 
 defaults:
