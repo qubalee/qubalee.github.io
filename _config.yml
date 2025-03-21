@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: ALQUBALEE Notes
-email: notes@qubalee.com
+email: abdullah@qubalee.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -63,7 +63,7 @@ author:
   bio    : "A PhD Geoscience Researcher"
   links:
     - label: "KFUPM"
-      icon: "fas fa-fw fa-link"
+      icon: "fab fa-linkedin-in"
       url: "https://pure.kfupm.edu.sa/en/persons/abdullah-alqubalee"
     - label: "linkedin"
       icon: "fa fa-linkedin-square"
@@ -78,7 +78,7 @@ author:
 footer:
   links:
     - label: "linkedin"
-      icon: "fa fa-linkedin-square"
+      icon: "fab fa-linkedin-in"
       url: "https://linkedin.com/in/qubalee"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
