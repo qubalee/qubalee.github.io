@@ -1,27 +1,22 @@
-# Minimal Mistakes remote theme starter
+# Overview
 
-Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
+Hello! My name is Abdullah Alqubalee, and I'm a PhD geoscience researcher. My current research focuses on exploring various geological processes to understand how they shape the Earth's surface and subsurface, and how they impact the quality and availability of natural resources.
 
-Contains basic configuration to get you a site with:
+## About ALQUBALEE Notes
 
-- Sample posts.
-- Sample top navigation.
-- Sample author sidebar with social links.
-- Sample footer links.
-- Paginated home page.
-- Archive pages for posts grouped by year, category, and tag.
-- Sample about page.
-- Sample 404 page.
-- Site wide search.
+Alqubalee Notes is a repository that contains various topics, research projects, datasets, and resources related to my research in geoscience. Here, you will find:
 
-Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
+- My Notes on various integrated research
+- Summary of articles I published 
+- Code for data analysis and visualization
+- Datasets used in my research
+- Tutorials and documentation
+- Announcements
+- And more ...
 
----
+## Contact
 
-## Troubleshooting
+If you have any questions or would like to collaborate, feel free to reach out!
 
-If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
+Email: [abdullah@qubalee.com](mailto:abdullah@qubalee.com)
 
-- [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
-- [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
-- [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
