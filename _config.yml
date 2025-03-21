@@ -62,7 +62,7 @@ author:
   avatar : "/assets/images/abdullah.jpg"
   bio    : "A PhD Geoscience Researcher"
   links:
-    - label: "kFUPM Pure"
+    - label: "PURE"
       icon: "fas fa-fw fa-link"
       url: "https://pure.kfupm.edu.sa/en/persons/abdullah-alqubalee"
     - label: "LinkedIn"
