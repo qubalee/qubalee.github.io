@@ -2,7 +2,7 @@
 permalink: /publications/
 title: "Publications"
 ---
-
+<html>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/pcooksey/bibtex-js@1.0.0/src/bibtex_js.js"></script>
 <!-- Or include minified version -->
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/pcooksey/bibtex-js@1.0.0/src/bibtex_js.min.js"></script>
@@ -18,3 +18,4 @@ title: "Publications"
 </textarea>
 
 <div id="bibtex_display"></div>
+</html>
