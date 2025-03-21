@@ -3,4 +3,18 @@ permalink: /publications/
 title: "Publications"
 ---
 
-Coming soon!
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/pcooksey/bibtex-js@1.0.0/src/bibtex_js.js"></script>
+<!-- Or include minified version -->
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/pcooksey/bibtex-js@1.0.0/src/bibtex_js.min.js"></script>
+
+<bibtex src="test.bib"></bibtex>
+<bibtex src="text1.bib"></bibtex>
+
+<textarea id="bibtex_input" style="display:none;">
+@book{book1,
+  author = "Donald Knuth",
+  title = "Concrete Mathematics"
+}
+</textarea>
+
+<div id="bibtex_display"></div>
