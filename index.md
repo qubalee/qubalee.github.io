@@ -17,4 +17,6 @@ Hello! My name is **Abdullah Alqubalee**, and I am a PhD geoscience researcher. 
 - **Tutorials & Documentation**: Guides to help you navigate complex concepts.
 - **Announcements**: Updates on my research and upcoming events.
 
-Currently, **ALQUBALEE Notes** is offline, but it will be available publicly to everyone soon. I invite you to stay tuned for exciting developments and future opportunities to engage with the content. Together, we can explore the fascinating world of geoscience and contribute to our understanding of the Earth. Thank you for visiting!
+Currently, **ALQUBALEE Notes** is offline, but it will be available publicly to everyone soon. I invite you to stay tuned for exciting developments and future opportunities to engage with the content. Together, we can explore the fascinating world of geoscience and contribute to our understanding of the Earth.
+
+Thank you for visiting!
