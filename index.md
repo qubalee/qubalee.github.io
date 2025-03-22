@@ -5,7 +5,6 @@
 layout: home
 author_profile: true
 ---
-## ALQUBALEE Notes
 
 Hello! My name is **Abdullah Alqubalee**, and I am a PhD geoscience researcher. My current research focuses on exploring various geological processes to understand how they shape the Earth's surface and subsurface, as well as their impact on the quality and availability of natural resources.
 
