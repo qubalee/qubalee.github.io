@@ -31,4 +31,4 @@ order: 5
 |                       | [eRocK](https://www.e-rock.co.uk/)                                                                                   |
 |                       | [360-Degree Geologic Expedition](https://www.sciencefriday.com/educational-resources/360-degree-expedition/)                                                                                |
 |                       | [Geo 3D Models](https://v3geo.com/search)                                                                                                                                       |
-|                       | [Carbonateworld)](https://carbonateworld.com/)                                                                                  |
+|                       | [Carbonateworld](https://carbonateworld.com/)                                                                                  |
