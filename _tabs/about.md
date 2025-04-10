@@ -11,7 +11,8 @@ In addition to my laboratory role, I work as a researcher in sedimentology and r
 
 I have completed numerous research projects and published various articles that concentrate on diagenesis and the factors influencing the quality of reservoirs, aquifers, and storage. My work provides valuable insights into how geological processes shape both the surface and subsurface, as well as how these processes impact the quality and availability of natural resources.
 
-For more information about my research and educational activites, please read my [Archives](/archives/) or check out my other webpages: [KFUPM](https://pure.kfupm.edu.sa/en/persons/abdullah-alqubalee) | [LinkedIn](https://www.linkedin.com/in/qubalee) | [ResearchGate](https://www.researchgate.net/profile/Abdullah-Alqubalee) | [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57196439599) | [Google Scholar](https://scholar.google.com/citations?user=B-qHbuwAAAAJ&hl=en&oi=ao) | [ORCID](https://orcid.org/0000-0002-0543-9026 )
+For more information about my research and educational activites, please read my [Archives](/archives/) or check out my other webpages:
+[KFUPM](https://pure.kfupm.edu.sa/en/persons/abdullah-alqubalee) - [LinkedIn](https://www.linkedin.com/in/qubalee) - [ResearchGate](https://www.researchgate.net/profile/Abdullah-Alqubalee) - [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57196439599) - [Google Scholar](https://scholar.google.com/citations?user=B-qHbuwAAAAJ&hl=en&oi=ao) - [ORCID](https://orcid.org/0000-0002-0543-9026)
 
 ---
 ## Contact me
