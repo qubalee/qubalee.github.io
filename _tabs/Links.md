@@ -7,7 +7,7 @@ order: 5
 > ***Note:** This is an updated page. If you encounter a broken link or would like to suggest an external link to be added, please [let me know](/about).
 
 
-| **Category**| *Links**                                                                                                                                                         |
+| **Category**| ***Links**                                                                                                                                                         |
 |-----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Research Labs**     | [Automated Mineralogy Lab at CPG](https://aml.qubalee.com)                                                                                                       |
 | **Research Tools**    | [Citation Reports](https://jcr.clarivate.com/jcr/browse-journals)                                                                                               |
