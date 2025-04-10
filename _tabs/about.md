@@ -36,6 +36,6 @@ You can reach out to me via [abdullah@qubalee.com](mailto:abdullah@qubalee.com) 
         <button type="submit" style="width: 100%; padding: 10px; background-color:rgb(103, 104, 105); color: white; border: none; border-radius: 4px; font-size: 16px; cursor: pointer;">
         Send Message
     </button>
-        <input type="hidden" name="_next" value="https://qubalee.github.io/mainpage/thanks">
+        <input type="hidden" name="_next" value="https://qubalee.github.io/qubalee/thanks">
     <input type="hidden" name="_captcha" value="false">
 </form><p>
