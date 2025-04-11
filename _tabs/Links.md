@@ -7,19 +7,6 @@ order: 5
 > ***Note:** This is an updated page. If you encounter a broken link or would like to suggest an external link to be added, please [let me know](/about).
 
 
-## **Research Labs** 
-[Automated Mineralogy Lab at CPG](https://aml.qubalee.com)
-
-## **Research Tools** 
-[Citation Reports](https://jcr.clarivate.com/jcr/browse-journals) • [Citation Finder](https://citation-finder.vercel.app/) • [iThenticate](https://library-web.kfupm.edu.sa/other-resources/user-guides/ithenticate-user-guide/) • [Eye on the Earth](https://eyes.nasa.gov/apps/earth/#/) • [Earthviewer](https://media.hhmi.org/biointeractive/earthviewer_web/earthviewer.html) • [OneGeology](https://portal.onegeology.org/OnegeologyGlobal/) • [GeoArabia](https://pubs.geoscienceworld.org/geoarabia/list-of-years) • [CCS Map](https://www.sccs.org.uk/resources/global-ccs-map)
-
-## **Research Data** 
-[USGS ADR](https://www.usgs.gov/office-of-science-quality-and-integrity/acceptable-digital-repositories-usgs-scientific) • [SGS NGD](https://ngdp.sgs.gov.sa/ngp/) • [NASA Datasets](https://data.giss.nasa.gov/). Also, check [Data Repositories](#data-repositories)
-
-## **Learning Resources** 
-[Data Sci Python](https://www.youtube.com/playlist?list=PLG19vXLQHvSDy26fM3hDLg3VCU7U5BGZl) • [Data Analytics](https://www.youtube.com/playlist?list=PLG19vXLQHvSB-D4XKYieEku9GQMQyAzjJ) • [Rocks: Interactive workshop](https://podcast-prod-distribution.s3.eu-west-2.amazonaws.com/oaipmh-default/ee54d805-482d-4053-ae38-aa9f915f7ae5/bb261954-9338-4e12-9a40-d50df952db7e/rocks.mp4) • [GeoBus](https://www.youtube.com/@geobusstandrews/videos) • [Online interactive petrology course](https://viva.pressbooks.pub/petrology/) • [Virtual Microscope](https://virtualmicroscope.org/collections) • [Outcropedia](https://outcropedia.tectask.org/) • [eRocK](https://www.e-rock.co.uk/) • [360-Degree Geologic Expedition](https://www.sciencefriday.com/educational-resources/360-degree-expedition/) • [Geo 3D Models](https://v3geo.com/search) • [Carbonateworld](https://carbonateworld.com/)
-
-
 ## Open Geoscience
 
 ### Contents
@@ -51,7 +38,7 @@ order: 5
 - [Geospatial Data Science with Julia](https://juliaearth.github.io/geospatial-data-science-with-julia) - ![Julia](media/icon/julia.png) Introductory book on geospatial data science with the Julia programming language.
 
 ## Software
-Opnen source software projects sub-categorized by focus.
+
 ### Seismic and Seismology
 - [Auralib](https://github.com/whamlyn/auralib) – ![Python](media/icon/python.png) / Python package to support investigation of geoscience problems including geophysics, rock physics, petrophysics, and data read/write in common formats.
 - [Bruges](https://github.com/agile-geoscience/bruges/tree/master/bruges) – ![Python](media/icon/python.png) Various geophysical equations and tools.
@@ -193,7 +180,7 @@ Opnen source software projects sub-categorized by focus.
 - [IsoplotR](https://github.com/pvermees/IsoplotR) – ![R](media/icon/r.png) A free and open-source substitute for Kenneth Ludwig's popular _Isoplot_ add-in to Microsoft Excel.
 - [pychron](https://github.com/NMGRL/pychron) – ![Python](media/icon/python.png) Data acquisition and processing framework for Ar-Ar geochronology and noble gas mass spectrometry.
 
-| ▲ [Top](#awesome-open-geoscience) |
+| ▲ [Top](#open-geoscience) |
 | --- |
 
 ## Data Repositories
@@ -216,7 +203,7 @@ Opnen source software projects sub-categorized by focus.
 - [Costa Model](https://researchportal.hw.ac.uk/en/datasets/costa-model-hierarchical-carbonate-reservoir-benchmarking-case-st/) – A hierarchical carbonate reservoir benchmarking case study.
 - [EarthChem](https://www.earthchem.org/) – Community-driven preservation, discovery, access, and visualization of geochemical, geochronological, and petrological data.
 
-| ▲ [Top](#awesome-open-geoscience) |
+| ▲ [Top](#open-geoscience) |
 | --- |
 
 ## Tutorials and Cheat Sheets
@@ -227,7 +214,7 @@ Opnen source software projects sub-categorized by focus.
 - [Rock Physics Cheat Sheet](https://static.squarespace.com/static/549dcda5e4b0a47d0ae1db1e/54a06d6ee4b0d158ed95f696/54a06d6fe4b0d158ed960042/1374593568367/Cheatsheet_Rock_Physics.pdf) –  Cheat Sheet for Rock Physics.
 - [Project Pythia](https://projectpythia.org/) – An education and training hub for the geoscientific Python community
 
-| ▲ [Top](#awesome-open-geoscience) |
+| ▲ [Top](#open-geoscience) |
 | --- |
 
 ## Miscellaneous
@@ -235,8 +222,14 @@ Opnen source software projects sub-categorized by focus.
 - [gio](https://github.com/agile-geoscience/gio) – ![Python](media/icon/python.png) Geoscience file input and output functions for less-than standard data formats.
 - [Open Mining Format](https://omf.readthedocs.io/en/latest) – ![Python](media/icon/python.png) Versatile mining data standard.
 - [Software Underground Slack](https://softwareunderground.org) – ![slack](media/icon/slack.png) Community connecting geo\computing researchers.
+- **Research Labs**: [Automated Mineralogy Lab at CPG](https://aml.qubalee.com)
+- **Research Tools**: [Citation Reports](https://jcr.clarivate.com/jcr/browse-journals) • [Citation Finder](https://citation-finder.vercel.app/) • [iThenticate](https://library-web.kfupm.edu.sa/other-resources/user-guides/ithenticate-user-guide/) • [Eye on the Earth](https://eyes.nasa.gov/apps/earth/#/) • [Earthviewer](https://media.hhmi.org/biointeractive/earthviewer_web/earthviewer.html) • [OneGeology](https://portal.onegeology.org/OnegeologyGlobal/) • [GeoArabia](https://pubs.geoscienceworld.org/geoarabia/list-of-years) • [CCS Map](https://www.sccs.org.uk/resources/global-ccs-map)
+- **Research Data**: [USGS ADR](https://www.usgs.gov/office-of-science-quality-and-integrity/acceptable-digital-repositories-usgs-scientific) • [SGS NGD](https://ngdp.sgs.gov.sa/ngp/) • [NASA Datasets](https://data.giss.nasa.gov/). Also, check [Data Repositories](#data-repositories)
+- **Learning Resources**: [Data Sci Python](https://www.youtube.com/playlist?list=PLG19vXLQHvSDy26fM3hDLg3VCU7U5BGZl) • [Data Analytics](https://www.youtube.com/playlist?list=PLG19vXLQHvSB-D4XKYieEku9GQMQyAzjJ) • [Rocks: Interactive workshop](https://podcast-prod-distribution.s3.eu-west-2.amazonaws.com/oaipmh-default/ee54d805-482d-4053-ae38-aa9f915f7ae5/bb261954-9338-4e12-9a40-d50df952db7e/rocks.mp4) • [GeoBus](https://www.youtube.com/@geobusstandrews/videos) • [Online interactive petrology course](https://viva.pressbooks.pub/petrology/) • [Virtual Microscope](https://virtualmicroscope.org/collections) • [Outcropedia](https://outcropedia.tectask.org/) • [eRocK](https://www.e-rock.co.uk/) • [360-Degree Geologic Expedition](https://www.sciencefriday.com/educational-resources/360-degree-expedition/) • [Geo 3D Models](https://v3geo.com/search) • [Carbonateworld](https://carbonateworld.com/)
 
-| ▲ [Top](#awesome-open-geoscience) |
+
+
+| ▲ [Top](#open-geoscience) |
 | --- |
 
 
