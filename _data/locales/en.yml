@@ -35,13 +35,12 @@ copyright:
   #link: https://creativecommons.org/licenses/by/4.0/
 
   # Displayed in the footer
-  brief: All rights reserved. Except where otherwise noted, the blog posts on this site are licensed
-    under the Creative Commons Attribution 4.0 International (CC BY 4.0) License by the author.
+  brief: All rights reserved; except where otherwise noted.
   verbose: >-
     Except where otherwise noted, the blog posts on this site are licensed
     under the Creative Commons Attribution 4.0 International (CC BY 4.0) License by the author.
 
-meta: Using the :THEME theme for :PLATFORM Hosted on GitHub Pages
+meta: Using the :THEME theme for :PLATFORM Hosted on :GitHub Pages
 
 not_found:
   statement: Sorry, we've misplaced that URL or it's pointing to something that doesn't exist.
