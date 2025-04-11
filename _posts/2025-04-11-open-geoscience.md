@@ -6,7 +6,7 @@ categories: [Education]
 tags: [Open source, Geology, Books, Software, Web-based Application, Integration, Interaction]
 ---
 
-> **Note:**: This page has been updated and modified based on the work of Gosses et al [^1] to provide the most updated and relevant information. It will be updated regularly. If you encounter a broken link or would like to suggest any other links to add, please [let me know](/about). 
+> **Note:**: This page has been updated and modified based on the work of Gosses et al [^1] to provide the most updated and relevant information. It will be updated regularly. If you encounter a broken link or would like to suggest any other links to add, please [let me know](/about/#contact-me). 
 
 _____
 
