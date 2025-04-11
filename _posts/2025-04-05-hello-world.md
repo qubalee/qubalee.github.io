@@ -4,6 +4,11 @@ date: 2025-04-05
 permalink: /posts/2025/04/hello-world/
 categories: [General]
 tags: [Welcome, Hello, ALQUBALEE Notes]
+pin: true
+math: true
+mermaid: true
+image:
+  path: /assets/images_posts/welcome.png
 ---
 
 Hello! I’m thrilled to introduce the very first post on **ALQUBALEE Notes**. The primary goal of this platform is to share insights related to geoscience, showcase my research, and discuss the challenges we encounter in this vital field. I envision this website as a hub for education and a focal point for fostering research collaborations.
