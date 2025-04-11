@@ -28,11 +28,11 @@ panel:
   toc: Contents
 
 copyright:
- Shown at the bottom of the post
-  license:
-  template: This post is licensed under :LICENSE_NAME by the author.
-  name: MIT
-  link: https://opensource.org/license/mit
+ #Shown at the bottom of the post
+ # license:
+ # template: This post is licensed under :LICENSE_NAME by the author.
+ # name: MIT
+ # link: https://opensource.org/license/mit
 
   # Displayed in the footer
   brief: All rights reserved; except where otherwise noted.
