@@ -1,7 +1,7 @@
 ---
-title: 'Open Geoscience'
+title: 'Open Geosciences'
 date: 2025-04-11
-permalink: /posts/2025/04/open-geoscience/
+permalink: /posts/2025/04/open-geosciences/
 categories: [Education]
 tags: [Open source, Geology, Books, Software, Web-based Application, Integration, Interaction]
 ---
@@ -228,7 +228,7 @@ _____
 ## Cite this page
 If you found this post helpful, please consider citing it:
 
-> Alqubalee, A. (2025, April 11). Open Geoscience. [https://qubalee.com/posts/2025/04/open-geoscience/](https://qubalee.com/posts/2025/04/open-geoscience)
+> Alqubalee, A. (2025, April 11). Open Geosciences. [https://qubalee.com/posts/2025/04/open-geoscience/](https://qubalee.com/posts/2025/04/open-geosciences)
 
 
 ## References
