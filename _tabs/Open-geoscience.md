@@ -4,13 +4,15 @@ icon: fas fa-link
 order: 5
 ---
 
+## Open Geoscience
 > ***Note:** This is an updated page. If you encounter a broken link or would like to suggest an external link to be added, please [let me know](/about).
 
-## Open Geoscience
->**Note**: modified after Gosses et al. [^1]
+>**Cite this page**: Alqubalee, A. (2025, April 11). Open Geoscience. [https://qubalee.com/Open-geoscience/](https://qubalee.com/Open-geoscience/)
+
+______
 
 ### Contents
-
+>**Note**: Modified after Gosses et al. [^1]
 - [Open books](#open-books)
 - [Software](#software)
     - [Seismic and Seismology](#seismic-and-seismology)
