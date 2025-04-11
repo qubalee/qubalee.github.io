@@ -31,7 +31,8 @@ order: 5
 - [Data Repositories](#data-repositories)
 - [Tutorials and Cheat Sheets](#tutorials-and-cheat-sheets)
 - [Miscellaneous](#miscellaneous)
-- [Related](#Related)
+- [Related](#related)
+- [References](#references)
 
 ## Open Books
 - [Geospatial Data Science with Julia](https://juliaearth.github.io/geospatial-data-science-with-julia) - Introductory book on geospatial data science with the Julia programming language.
@@ -236,6 +237,7 @@ order: 5
 - **Learning Resources**: [Data Sci Python](https://www.youtube.com/playlist?list=PLG19vXLQHvSDy26fM3hDLg3VCU7U5BGZl) • [Data Analytics](https://www.youtube.com/playlist?list=PLG19vXLQHvSB-D4XKYieEku9GQMQyAzjJ) • [Rocks: Interactive workshop](https://podcast-prod-distribution.s3.eu-west-2.amazonaws.com/oaipmh-default/ee54d805-482d-4053-ae38-aa9f915f7ae5/bb261954-9338-4e12-9a40-d50df952db7e/rocks.mp4) • [GeoBus](https://www.youtube.com/@geobusstandrews/videos) • [Online interactive petrology course](https://viva.pressbooks.pub/petrology/) • [Virtual Microscope](https://virtualmicroscope.org/collections) • [Outcropedia](https://outcropedia.tectask.org/) • [eRocK](https://www.e-rock.co.uk/) • [360-Degree Geologic Expedition](https://www.sciencefriday.com/educational-resources/360-degree-expedition/) • [Geo 3D Models](https://v3geo.com/search) • [Carbonateworld](https://carbonateworld.com/)
 
 ## Related
+
 - [Awesome-Spatial](https://github.com/RoboDonut/awesome-spatial) – Awesome list for geospatial, not specific to geoscience but significant overlap
 - [Awesome Open Climate Science](https://github.com/pangeo-data/awesome-open-climate-science) – Awesome list for atmospheric, ocean, climate, and hydrologic science
 - [Awesome Coastal](https://github.com/chrisleaman/awesome-coastal) – Awesome list for coastal engineers and scientists
@@ -243,4 +245,5 @@ order: 5
 - [Awesome Open Geoscience](https://github.com/softwareunderground/awesome-open-geoscience) – Curated from repositories that make our lives as geoscientists, hackers, and data wranglers easier or just more awesome
 
 ## References
+
 [^1]: Justin Gosses, Jesper Dramsch, Evan Bianco, Dieter Werthmüller, Andrew Moodie, Bane Sullivan, Matteo Niccoli, Leonardo Uieda, eMHa, Antoine Caté, Ian Nesbitt, Arnaud Botella, David Wade, Mathieu Gravey, Matt Hall, Sebastian Müller, Per Olav Eide Svendsen, Rodolfo Oliveira, Rowan Cockett, … Fernando E. Ziegler. (2023). softwareunderground/awesome-open-geoscience: Alpha release to test integration with Zenodo (Alpha). Zenodo. https://doi.org/10.5281/zenodo.8354180
