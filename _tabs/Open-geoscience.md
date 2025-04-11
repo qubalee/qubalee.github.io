@@ -4,14 +4,13 @@ icon: fas fa-link
 order: 5
 ---
 
-## Open Geoscience
 > **Note:** This is an updated page. If you encounter a broken link or would like to suggest an external link to be added, please [let me know](/about).
 
->**Cite this page**: Alqubalee, A. (2025, April 11). Open Geoscience. [https://qubalee.com/Open-geoscience/](https://qubalee.com/Open-geoscience/)
+> **Cite this page**: Alqubalee, A. (2025, April 11). Open Geoscience. [https://qubalee.com/Open-geoscience/](https://qubalee.com/Open-geoscience/)
 
 ______
 
-### Contents
+# Contents
 >**Note**: Modified after Gosses et al. [^1]
 - [Open books](#open-books)
 - [Software](#software)
@@ -36,7 +35,7 @@ ______
 - [Related](#related)
 - [References](#references)
 
-## Open Books
+# Open Books
 - [Geospatial Data Science with Julia](https://juliaearth.github.io/geospatial-data-science-with-julia) - Introductory book on geospatial data science with the Julia programming language.
 - [Geocomputation with Python](https://py.geocompx.org/) - A book on reproducible geographic data analysis with open source software.
 - [Geocomputation with R](https://r.geocompx.org/) - A book on geographic data analysis, visualization and modeling.
@@ -44,9 +43,9 @@ ______
 - [Applied Machine Learning in Python: A Hands-on Guide with Code](https://geostatsguy.github.io/MachineLearningDemos_Book/intro.html) - A chapter of e-book “Applied Machine Learning in Python: a Hands-on Guide with Code, more [^3].
 
 
-## Software
+# Software
 
-### Seismic and Seismology
+## Seismic and Seismology
 - [Auralib](https://github.com/whamlyn/auralib) – Python package to support investigation of geoscience problems including geophysics, rock physics, petrophysics, and data read/write in common formats.
 - [Bruges](https://github.com/agile-geoscience/bruges/tree/master/bruges) – Various geophysical equations and tools.
 - [Madagascar](https://ahay.org/wiki/Main_Page) – Multi-dimensional data processing suite.
@@ -66,14 +65,14 @@ ______
 - [SeismicZFP](https://github.com/equinor/seismic-zfp) – Convert SEG-Y/ZGY files to compressed SGZ files & retrieve arbitrary sub-volumes from these, fast.
 - [synthoseis](https://github.com/sede-open/synthoseis) – Synthoseis is an open-source, Python-based tool used for generating pseudo-random seismic data.
 
-### Ground-penetrating radar
+## Ground-penetrating radar
 - [gprMax](https://www.gprmax.com) – Finite-difference time-domain electromagnetic wave propagation simulator (on CPU and GPU).
 - [GPRPy](https://github.com/NSGeophysics/GPRPy) – Multi-format, GUI-based GPR processing and visualization.
 - [RAGU](https://github.com/btobers/RAGU) – Radar interpretation GUI compatible with multiple radar datasets.
 - [readgssi](https://github.com/iannesbitt/readgssi) – Fast command line or console-based visualization, filtering, and translation of GSSI radar data.
 - [RGPR](https://github.com/emanuelhuber/RGPR) – Reads, exports, processes, and plots ground-penetrating radar data.
 
-### Well Log
+## Well Log
 - [dlisio](https://github.com/equinor/dlisio) – Parser for dlis and lis well log files.
 - [lasio](https://github.com/kinverarity1/lasio) – Reading and writing well data using Log ASCII Standard (LAS) files.
 - [OpenGeoPlotter](https://github.com/bsomps/OpenGeoPlotter) – Create strip logs, drill sections, other plots.
@@ -83,7 +82,7 @@ ______
 - [Wellpathpy](https://github.com/Zabamund/wellpathpy) – Light package to load well deviations.
 - [Welly](https://github.com/agile-geoscience/welly) – Analyzing and processing well log data.
 
-### Simulation and Modelling
+## Simulation and Modelling
 - [Basic Model Interface (BMI)](https://github.com/csdms/bmi) – A standardized set of functions for model-model and model-data coupling.
 - [bh_tomo](https://github.com/groupeLIAMG/bh_tomo) – Borehole radar and seismic tomography package.
 - [BlenderGeoModeller](https://github.com/bsomps/BlenderGeoModeller) – A Blender add-on with a collection of tools for 3-D geological modelling.
@@ -111,7 +110,7 @@ ______
 - [ttcrpy](https://ttcrpy.readthedocs.io/en/latest) – Traveltime computation and raytracing on 2D & 3D rectilinear grids and unstructured meshes.
 - [XTgeo](https://xtgeo.readthedocs.io/en/latest) – Python library with C backend to support manipulation of (oil industry) subsurface reservoir modelling.
 
-### Reservoir Engineering
+## Reservoir Engineering
 - [DuMu<sup>x</sup>](https://dumux.org) – Simulator for flow and transport processes in porous media.
 - [DeepField](https://github.com/deepfield-team/DeepField) - A framework for reading and writing Eclipse reservoir data, reservoir preprocessing and interactive visualization.
 - [ecl](https://github.com/equinor/ecl) – Reading and writing Eclipse reservoir simulator files.
@@ -121,7 +120,7 @@ ______
 - [ResInsight](https://github.com/OPM/ResInsight) – ResInsight is a powerful open source, cross-platform 3D visualization, curve plotting, and post processing tool for reservoir models and simulations.
 - [SHEMAT-Suite](https://git.rwth-aachen.de/SHEMAT-Suite/SHEMAT-Suite-open) – Simulator for flow, heat and species transport in porous media including stochastic and deterministic parameter estimation.
 
-### Geostatistics
+## Geostatistics
 - [GeostatsPy](https://github.com/GeostatsGuy/GeostatsPy) – GSLIB reimplemented in Python.
 - [GeoStats.jl](https://github.com/JuliaEarth/GeoStats.jl) – High-performance geostatistics in Julia.
 - [GeoStat-Framework](https://github.com/GeoStat-Framework) – Framework for geostatistical simulations.
@@ -137,7 +136,7 @@ ______
 - [SGeMS](https://sgems.sourceforge.net) – Stanford geostatistical modelling software.
 - [bm_geostat_process](https://github.com/pemn/bm_geostat_process) - open source workflow for geostatistics block models.
 
-### Geospatial
+## Geospatial
 - [Generic Mapping Tools (GMT)](https://www.generic-mapping-tools.org) – About 80 command-line tools for manipulating geographic and Cartesian data sets.
 - [geonotebook](https://github.com/OpenGeoscience/geonotebook) – Jupyter notebook extension for geospatial visualization and analysis developed by NASA.
 - [GeoPHP](https://geophp.net) – Geospatial library that works with many formats.
@@ -150,7 +149,7 @@ ______
 - [gemgis](https://github.com/cgre-aachen/gemgis) – Spatial data processing for geomodeling.
 - [SamGIS](https://github.com/trincadev/samgis-be) – Image Segmentation machine learning based applied to GIS and geo data. HuggingFace demo [here](https://huggingface.co/spaces/aletrn/samgis).
 
-### Geochemistry
+## Geochemistry
 - [GeoPyTool](https://github.com/GeoPyTool/GeoPyTool) – Application with geochemical plotting capabilities.
 - [PhreeQC](https://www.usgs.gov/software/phreeqc-version-3) – Reactions in water and between water and rocks and sediments (speciation, batch-reaction, one-dimensional transport, and inverse geochemical calculations).
 - [pyrolite](https://github.com/morganjwilliams/pyrolite) – Geochemical transformation and visualisation.
@@ -159,21 +158,21 @@ ______
 - [CHNOSZ](https://www.chnosz.net/) – Thermodynamic calculations and diagrams for geochemistry.
 - [GeoChemical Data toolkit – GCDKit](https://gcdkit.org/) – System for handling and recalculation of whole-rock analyses from igneous rocks.
 
-### Geodynamics
+## Geodynamics
 - [Underworld](https://github.com/underworldcode/underworld2) - Computational tools for the geodynamics community.
 
-### Magnetotellurics
+## Magnetotellurics
 - [MATE](https://github.com/sinanozaydin/MATE) - A Python program for interpreting magnetotelluric models of the mantle.
 - [MTPy](https://github.com/MTgeophysics/mtpy) - A Python Toolbox for magnetotelluric data processing, analysis, modelling and visualization.
 - [Razorback](https://github.com/brgm/razorback) – An Python library for magnetotelluric robust processing.
 
-### Structural Geology
+## Structural Geology
 - [apsg](https://github.com/ondrolexa/apsg) – Advanced structural geology analysis and visualisation based on Matplotlib.
 - [mplStereonet](https://github.com/joferkington/mplstereonet) – Stereonets on python based on Matplotlib.
 - [OpenStereo](https://github.com/spamlab-iee/os) – An open source, cross-platform structural geology analysis software.
 - [Stress_state_plot](https://github.com/mkondratyev85/stress_state_plot) – An open source structural geology package for visualisation of a given stress-state.
 
-### Visualization
+## Visualization
 - [cmocean](https://matplotlib.org/cmocean) – MatPlotLib collection of perceptual colormaps for oceanography.
 - [Colorcet](https://github.com/holoviz/colorcet)  – Perceptual colormaps.
 - [Geologic Patterns](https://github.com/davenquinn/geologic-patterns) – Entire FGDC pattern library extracted to SVG and PNG for use in geologic maps and stratigraphic columns.
@@ -185,7 +184,7 @@ ______
 - [GeoVista](https://github.com/bjlittle/geovista) – Cartographic rendering and mesh analytics powered by PyVista.
 - [Digitize Heatmap](https://github.com/RyanFu008/digitize-heatmap) – Get numerical data from a heatmap from a PDF format.
 
-### Platforms
+## Platforms
 - [GRASS-GIS](https://grass.osgeo.org) – GIS platform for vector and raster geospatial data management, geoprocessing, spatial modelling and visualization, source code available at [github](https://github.com/OSGeo/grass).
 - [OpendTect](https://dgbes.com/software/opendtect) – Seismic interpretation package, source code available at [github](https://github.com/OpendTect/OpendTect).
 - [OpenGeode](https://github.com/Geode-solutions/OpenGeode) – Representation and manipulation of geological models.
@@ -194,10 +193,10 @@ ______
 - [Webviz](https://github.com/equinor/webviz-config) – Webviz is a wrapper on top of Dash from Plotly which encourages making reusable data visualisation components and dashboards.
 - [Webviz-subsurface](https://github.com/equinor/webviz-subsurface) – Webviz-subsurface contains subsurface specific standard webviz containers, which are used as plugins in webviz-config.
 
-### Natural Language Processing
+## Natural Language Processing
 - [geoVec](https://osf.io/4uyeq/wiki/home) – "Word embeddings for application in geosciences: development, evaluation and examples of soil-related concepts" and an [implementation](https://github.com/JustinGOSSES/geoVec-playground).
 
-### Geochronology
+## Geochronology
 - [IsoplotR](https://github.com/pvermees/IsoplotR) – A free and open-source substitute for Kenneth Ludwig's popular _Isoplot_ add-in to Microsoft Excel.
 - [pychron](https://github.com/NMGRL/pychron) – Data acquisition and processing framework for Ar-Ar geochronology and noble gas mass spectrometry.
 
@@ -251,7 +250,7 @@ ______
 - [Awesome Earth Artificial Intelligence](https://github.com/ESIPFed/Awesome-Earth-Artificial-Intelligence) – Awesome list for artificial intelligence use cases in Earth Science maintained by ESIP (<a href="https://wiki.esipfed.org/Main_Page">Earth Science Information Partners</a>, which is an Earth science informatics community) Machine Learning Cluster.
 - [Awesome Open Geoscience](https://github.com/softwareunderground/awesome-open-geoscience) – Curated from repositories that make our lives as geoscientists, hackers, and data wranglers easier or just more awesome
 
-## References
+# References
 
 [^1]: Justin Gosses, Jesper Dramsch, Evan Bianco, Dieter Werthmüller, Andrew Moodie, Bane Sullivan, Matteo Niccoli, Leonardo Uieda, eMHa, Antoine Caté, Ian Nesbitt, Arnaud Botella, David Wade, Mathieu Gravey, Matt Hall, Sebastian Müller, Per Olav Eide Svendsen, Rodolfo Oliveira, Rowan Cockett, … Fernando E. Ziegler. (2023). softwareunderground/awesome-open-geoscience: Alpha release to test integration with Zenodo (Alpha). Zenodo. https://doi.org/10.5281/zenodo.8354180
 [^2]: Michael Pyrcz. (2024). GeostatsGuy/GeostatsPyDemos: GeostatsPyDemos 0.0.1 (GeostatsPyDemos0.0.1). Zenodo. https://doi.org/10.5281/zenodo.12667036
