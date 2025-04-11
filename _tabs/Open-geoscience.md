@@ -7,6 +7,7 @@ order: 5
 > ***Note:** This is an updated page. If you encounter a broken link or would like to suggest an external link to be added, please [let me know](/about).
 
 ## Open Geoscience
+>**Note**: modified after Gosses et al. [^1]
 
 ### Contents
 
@@ -30,6 +31,7 @@ order: 5
 - [Data Repositories](#data-repositories)
 - [Tutorials and Cheat Sheets](#tutorials-and-cheat-sheets)
 - [Miscellaneous](#miscellaneous)
+- [Related](#Related)
 
 ## Open Books
 - [Geospatial Data Science with Julia](https://juliaearth.github.io/geospatial-data-science-with-julia) - Introductory book on geospatial data science with the Julia programming language.
@@ -191,8 +193,7 @@ order: 5
 - [IsoplotR](https://github.com/pvermees/IsoplotR) – A free and open-source substitute for Kenneth Ludwig's popular _Isoplot_ add-in to Microsoft Excel.
 - [pychron](https://github.com/NMGRL/pychron) – Data acquisition and processing framework for Ar-Ar geochronology and noble gas mass spectrometry.
 
-| ▲ [Top](#open-geoscience) |
-| --- |
+
 
 ## Data Repositories
 - [Athabasca Oil Sands Well Dataset McMurray/Wabiskaw](https://ags.aer.ca/publication/spe-006) – Well logs and stratigraphic picks for 2193 wells, including 750 with lithofacies, from Alberta, Canada.
@@ -213,8 +214,6 @@ order: 5
 - [Costa Model](https://researchportal.hw.ac.uk/en/datasets/costa-model-hierarchical-carbonate-reservoir-benchmarking-case-st/) – A hierarchical carbonate reservoir benchmarking case study.
 - [EarthChem](https://www.earthchem.org/) – Community-driven preservation, discovery, access, and visualization of geochemical, geochronological, and petrological data.
 
-| ▲ [Top](#open-geoscience) |
-| --- |
 
 ## Tutorials and Cheat Sheets
 
@@ -224,8 +223,7 @@ order: 5
 - [Rock Physics Cheat Sheet](https://static.squarespace.com/static/549dcda5e4b0a47d0ae1db1e/54a06d6ee4b0d158ed95f696/54a06d6fe4b0d158ed960042/1374593568367/Cheatsheet_Rock_Physics.pdf) – Cheat Sheet for Rock Physics.
 - [Project Pythia](https://projectpythia.org/) – An education and training hub for the geoscientific Python community.
 
-| ▲ [Top](#open-geoscience) |
-| --- |
+
 
 ## Miscellaneous
 
@@ -237,5 +235,12 @@ order: 5
 - **Research Data**: [USGS ADR](https://www.usgs.gov/office-of-science-quality-and-integrity/acceptable-digital-repositories-usgs-scientific) • [SGS NGD](https://ngdp.sgs.gov.sa/ngp/) • [NASA Datasets](https://data.giss.nasa.gov/). Also, check [Data Repositories](#data-repositories)
 - **Learning Resources**: [Data Sci Python](https://www.youtube.com/playlist?list=PLG19vXLQHvSDy26fM3hDLg3VCU7U5BGZl) • [Data Analytics](https://www.youtube.com/playlist?list=PLG19vXLQHvSB-D4XKYieEku9GQMQyAzjJ) • [Rocks: Interactive workshop](https://podcast-prod-distribution.s3.eu-west-2.amazonaws.com/oaipmh-default/ee54d805-482d-4053-ae38-aa9f915f7ae5/bb261954-9338-4e12-9a40-d50df952db7e/rocks.mp4) • [GeoBus](https://www.youtube.com/@geobusstandrews/videos) • [Online interactive petrology course](https://viva.pressbooks.pub/petrology/) • [Virtual Microscope](https://virtualmicroscope.org/collections) • [Outcropedia](https://outcropedia.tectask.org/) • [eRocK](https://www.e-rock.co.uk/) • [360-Degree Geologic Expedition](https://www.sciencefriday.com/educational-resources/360-degree-expedition/) • [Geo 3D Models](https://v3geo.com/search) • [Carbonateworld](https://carbonateworld.com/)
 
-| ▲ [Top](#open-geoscience) |
-| --- |
+## Related
+- [Awesome-Spatial](https://github.com/RoboDonut/awesome-spatial) – Awesome list for geospatial, not specific to geoscience but significant overlap
+- [Awesome Open Climate Science](https://github.com/pangeo-data/awesome-open-climate-science) – Awesome list for atmospheric, ocean, climate, and hydrologic science
+- [Awesome Coastal](https://github.com/chrisleaman/awesome-coastal) – Awesome list for coastal engineers and scientists
+- [Awesome Earth Artificial Intelligence](https://github.com/ESIPFed/Awesome-Earth-Artificial-Intelligence) – Awesome list for artificial intelligence use cases in Earth Science maintained by ESIP (<a href="https://wiki.esipfed.org/Main_Page">Earth Science Information Partners</a>, which is an Earth science informatics community) Machine Learning Cluster.
+- [Awesome Open Geoscience](https://github.com/softwareunderground/awesome-open-geoscience) – Curated from repositories that make our lives as geoscientists, hackers, and data wranglers easier or just more awesome
+
+## References
+[^1]: Justin Gosses, Jesper Dramsch, Evan Bianco, Dieter Werthmüller, Andrew Moodie, Bane Sullivan, Matteo Niccoli, Leonardo Uieda, eMHa, Antoine Caté, Ian Nesbitt, Arnaud Botella, David Wade, Mathieu Gravey, Matt Hall, Sebastian Müller, Per Olav Eide Svendsen, Rodolfo Oliveira, Rowan Cockett, … Fernando E. Ziegler. (2023). softwareunderground/awesome-open-geoscience: Alpha release to test integration with Zenodo (Alpha). Zenodo. https://doi.org/10.5281/zenodo.8354180
