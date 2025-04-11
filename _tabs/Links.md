@@ -42,7 +42,7 @@ order: 5
 - [Madagascar](https://ahay.org/wiki/Main_Page) – Multi-dimensional data processing suite.
 - [MDIO](https://mdio.dev) – Open source chunked and compressed cloud storage for seismic data based on Zarr with fast seismic ingestion and export tools – [Docs](https://mdio-python.readthedocs.io), [Source](https://github.com/TGSAI/mdio-python).
 - [ObsPy](https://github.com/obspy/obspy/wiki) – Framework for reading, writing and processing seismic and seismological data.
-- [OpendTect-Plugins](https://github.com/waynegm/OpendTect-Plugins) – Open source plugins for the [OpendTect](#platforms) seismic interpretation platform. See [the docs](http://waynegm.github.io/OpendTect-Plugin-Docs) for more information.
+- [OpendTect-Plugins](https://github.com/waynegm/OpendTect-Plugins) – Open source plugins for the [OpendTect](#platforms) seismic interpretation platform. See [the docs](https://waynegm.github.io/OpendTect-Plugin-Docs) for more information.
 - [OpenSeaSeis](https://github.com/JohnWStockwellJr/OpenSeaSeis) – Seismic workflow generator and seismic viewer.
 - [Pastas](https://github.com/pastas/pastas) – Open-source Python framework for the analysis of groundwater time series.
 - [Pyrocko](https://git.pyrocko.org/pyrocko/pyrocko) – Seismology toolkit.
@@ -57,7 +57,7 @@ order: 5
 - [synthoseis](https://github.com/sede-open/synthoseis) – Synthoseis is an open-source, Python-based tool used for generating pseudo-random seismic data.
 
 ### Ground-penetrating radar
-- [gprMax](http://www.gprmax.com) – Finite-difference time-domain electromagnetic wave propagation simulator (on CPU and GPU).
+- [gprMax](https://www.gprmax.com) – Finite-difference time-domain electromagnetic wave propagation simulator (on CPU and GPU).
 - [GPRPy](https://github.com/NSGeophysics/GPRPy) – Multi-format, GUI-based GPR processing and visualization.
 - [RAGU](https://github.com/btobers/RAGU) – Radar interpretation GUI compatible with multiple radar datasets.
 - [readgssi](https://github.com/iannesbitt/readgssi) – Fast command line or console-based visualization, filtering, and translation of GSSI radar data.
@@ -95,7 +95,7 @@ order: 5
 - [PyGMI](https://patrick-cole.github.io/pygmi/pygmi.html)– It is a modelling and interpretation suite aimed at magnetic, gravity and other datasets.
 - [PyLops](https://pylops.readthedocs.io/en/latest) – Linear Operators with some geophysics/seismic modules (e.g., pre- and post-stack AVO inversion, deconvolution, Marchenko redatuming, Radon filtering).
 - [PyMT](https://github.com/csdms/pymt) – Python toolkit for coupling models and datasets that expose the Basic Model Interface (BMI).
-- [PySIT](http://pysit.org) – A Toolbox for seismic inversion and seismic imaging.
+- [PySIT](https://pysit.org) – A Toolbox for seismic inversion and seismic imaging.
 - [ResIPy](https://gitlab.com/hkex/resipy) – an intuitive open source software for complex geoelectrical inversion/modeling.
 - [SimPEG](https://github.com/simpeg/simpeg) – Simulation and parameter estimation in geophysics.
 - [ttcrpy](https://ttcrpy.readthedocs.io/en/latest) – Traveltime computation and raytracing on 2D & 3D rectilinear grids and unstructured meshes.
@@ -124,7 +124,7 @@ order: 5
 - [pyKriging](https://github.com/capaulson/pyKriging) – N-dimensional kriging.
 - [pysgems](https://github.com/robinthibaut/pysgems) – Use SGeMS (Stanford geostatistical modelling software) within Python.
 - [SciKit-GStat](https://github.com/mmaelicke/scikit-gstat) – SciPy-styled analysis module for geostatistics.
-- [SGeMS](http://sgems.sourceforge.net) – Stanford geostatistical modelling software.
+- [SGeMS](https://sgems.sourceforge.net) – Stanford geostatistical modelling software.
 - [bm_geostat_process](https://github.com/pemn/bm_geostat_process) - open source workflow for geostatistics block models.
 
 ### Geospatial
@@ -199,8 +199,8 @@ order: 5
 - [Digital Rocks Portal](https://www.digitalrocksportal.org) – Powerful data portal for images of varied porous micro-structures.
 - [Geoscience Australia Portal](https://portal.ga.gov.au) – Comprehensive map-based Australian data portal across multiple geoscience domains.
 - [GSQ Open Data Portal](https://geoscience.data.qld.gov.au/) – Petroleum, coal, and mineral geoscience data from the Queensland resource industry and government, with supporting information from [GSQ GitHub Repository](https://github.com/geological-survey-of-queensland) for Data Models, RDF Vocabularies, and system design. Use of VPN may result in 403 error.
-- [ICGEM](http://icgem.gfz-potsdam.de/home) – Hosts gravity field spherical harmonic models and provides a webservice for generating grids of gravity functionals (geoid, gravity anomaly, vertical derivatives, etc).
-- [NOPIMS](http://www.ga.gov.au/nopims) – Open petroleum geoscience data from Western Australia made available by the Australian Government.
+- [ICGEM](https://icgem.gfz-potsdam.de/home) – Hosts gravity field spherical harmonic models and provides a webservice for generating grids of gravity functionals (geoid, gravity anomaly, vertical derivatives, etc).
+- [NOPIMS](https://www.ga.gov.au/nopims) – Open petroleum geoscience data from Western Australia made available by the Australian Government.
 - [Poseidon NW Australia](https://drive.google.com/drive/folders/0B7brcf-eGK8Cbk9ueHA0QUU4Zjg) – Interpreted 3D seismic (32bit) including reports and well logs.
 - [Quantarctica](https://www.npolar.no/quantarctica) – User-configurable [QGIS](#platforms) basemap for Antarctica with high-quality, peer-reviewed, free and open Antarctic scientific data.
 - [SARIG](https://map.sarig.sa.gov.au) – South Australian Resources and Information Gateway providing map-based statewide geoscientific and geospatial data with over 600 datasets.
@@ -208,7 +208,7 @@ order: 5
 - [TerraNubis](https://terranubis.com/datalist/free) – The new _Open Seismic Repository_, includes the classic F3 and Penobscot seismic volumes (which both also have wells and other data assets).
 - [UK National Data Repository](https://ndr.ogauthority.co.uk) – Open petroleum geoscience data from the UK Government (free registration required).
 - [Volve data village](https://www.equinor.com/energy/volve-data-sharing) - A complete set of data from a North Sea oil field available for research, study and development purposes.
-- [World Stress Map](http://www.world-stress-map.org) – A global compilation of information on the crustal present-day stress field.
+- [World Stress Map](https://www.world-stress-map.org) – A global compilation of information on the crustal present-day stress field.
 - [Macrostrat](https://macrostrat.org) - A multiscale, harmonized, and globally-defined geologic map dataset and stratigraphic API.
 - [Costa Model](https://researchportal.hw.ac.uk/en/datasets/costa-model-hierarchical-carbonate-reservoir-benchmarking-case-st/) – A hierarchical carbonate reservoir benchmarking case study.
 - [EarthChem](https://www.earthchem.org/) – Community-driven preservation, discovery, access, and visualization of geochemical, geochronological, and petrological data.
