@@ -8,7 +8,7 @@ pin: true
 math: true
 mermaid: true
 image:
-  path: /assets/images_posts/welcome.png
+  path: /images_posts/welcome.png
 ---
 
 Hello! I’m thrilled to introduce the very first post on **ALQUBALEE Notes**. The primary goal of this platform is to share insights related to geoscience, showcase my research, and discuss the challenges we encounter in this vital field. I envision this website as a hub for education and a focal point for fostering research collaborations.
