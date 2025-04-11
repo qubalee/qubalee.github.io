@@ -36,6 +36,11 @@ order: 5
 
 ## Open Books
 - [Geospatial Data Science with Julia](https://juliaearth.github.io/geospatial-data-science-with-julia) - Introductory book on geospatial data science with the Julia programming language.
+- [Geocomputation with Python](https://py.geocompx.org/) - A book on reproducible geographic data analysis with open source software.
+- [Geocomputation with R](https://r.geocompx.org/) - A book on geographic data analysis, visualization and modeling.
+- [Applied Geostatistics in Python: a Hands-on Guide with GeostatsPy](https://geostatsguy.github.io/GeostatsPyDemos_Book/intro.html) - This e-book provides an accessible, online version for Undergraduate Data Analytics and Geostatistics Courses, more [^2].
+- [Applied Machine Learning in Python: A Hands-on Guide with Code](https://geostatsguy.github.io/MachineLearningDemos_Book/intro.html) - A chapter of e-book “Applied Machine Learning in Python: a Hands-on Guide with Code, more [^3].
+
 
 ## Software
 
@@ -247,3 +252,5 @@ order: 5
 ## References
 
 [^1]: Justin Gosses, Jesper Dramsch, Evan Bianco, Dieter Werthmüller, Andrew Moodie, Bane Sullivan, Matteo Niccoli, Leonardo Uieda, eMHa, Antoine Caté, Ian Nesbitt, Arnaud Botella, David Wade, Mathieu Gravey, Matt Hall, Sebastian Müller, Per Olav Eide Svendsen, Rodolfo Oliveira, Rowan Cockett, … Fernando E. Ziegler. (2023). softwareunderground/awesome-open-geoscience: Alpha release to test integration with Zenodo (Alpha). Zenodo. https://doi.org/10.5281/zenodo.8354180
+[^2]: Michael Pyrcz. (2024). GeostatsGuy/GeostatsPyDemos: GeostatsPyDemos 0.0.1 (GeostatsPyDemos0.0.1). Zenodo. https://doi.org/10.5281/zenodo.12667036
+[^3]: Michael Pyrcz. (2025). GeostatsGuy/MachineLearningDemos_Book: v0.2 (v0.2). Zenodo. https://doi.org/10.5281/zenodo.15169139
