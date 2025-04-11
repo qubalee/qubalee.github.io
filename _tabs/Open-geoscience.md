@@ -5,7 +5,7 @@ order: 5
 ---
 
 ## Open Geoscience
-> ***Note:** This is an updated page. If you encounter a broken link or would like to suggest an external link to be added, please [let me know](/about).
+> **Note:** This is an updated page. If you encounter a broken link or would like to suggest an external link to be added, please [let me know](/about).
 
 >**Cite this page**: Alqubalee, A. (2025, April 11). Open Geoscience. [https://qubalee.com/Open-geoscience/](https://qubalee.com/Open-geoscience/)
 
