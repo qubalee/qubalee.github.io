@@ -124,6 +124,8 @@ _____
 - [whitebox-tools](https://github.com/jblindsay/whitebox-tools) – An advanced geospatial data analysis platform.
 - [gemgis](https://github.com/cgre-aachen/gemgis) – Spatial data processing for geomodeling.
 - [SamGIS](https://github.com/trincadev/samgis-be) – Image Segmentation machine learning based applied to GIS and geo data. HuggingFace demo [here](https://huggingface.co/spaces/aletrn/samgis).
+- [Open Geospatial Solutions](https://github.com/opengeos) - A collection of open-source software packages for the geospatial community
+- [Geemap](https://geemap.org/) - A Python package for interactive geospatial analysis and visualization with Google Earth Engine
 
 ## Geochemistry
 - [GeoPyTool](https://github.com/GeoPyTool/GeoPyTool) – Application with geochemical plotting capabilities.
