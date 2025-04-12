@@ -14,6 +14,10 @@ I have completed numerous research projects and published various articles that 
 For more information about my research and educational activites, please read my [Archives](/archives/) or check out my other webpages:
 [KFUPM](https://pure.kfupm.edu.sa/en/persons/abdullah-alqubalee) - [LinkedIn](https://www.linkedin.com/in/qubalee) - [ResearchGate](https://www.researchgate.net/profile/Abdullah-Alqubalee) - [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57196439599) - [Google Scholar](https://scholar.google.com/citations?user=B-qHbuwAAAAJ&hl=en&oi=ao) - [ORCID](https://orcid.org/0000-0002-0543-9026)
 
+
+> This blog was built using the [Chirpy theme](https://github.com/cotes2020/jekyll-theme-chirpy) for [Jekyll](https://jekyllrb.com/), and hosted on [GitHub Pages](https://pages.github.com/).
+{: .prompt-info }
+
 ---
 ## Contact me
 
