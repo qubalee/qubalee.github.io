@@ -1,5 +1,5 @@
 ---
-title: 'Impact of sample size on quantifying bioturbation in burrow-related strata'
+title: 'Impact of Sample Size on Quantifying Bioturbation in Burrow-Related Strata'
 date: 2025-04-11
 permalink: /posts/2025/04/quantifying-bioturbation/
 categories: [Research]
@@ -30,7 +30,7 @@ To investigate the impacts of sample size on burrow quantification, several core
 ## Cite this post
 If you found this post helpful, please consider citing it and the references below as well as reading more about this topic in our previous work on [Bioturbation Impact on Reservoir and Aquifer Properties](/posts/2025/04/bioturbation/)
 
->Alqubalee, A. (2025, April 11). Impact of sample size on quantifying bioturbation in burrow-related strata. https://qubalee.com/posts/2025/04/quantifying-bioturbation/
+>Alqubalee, A. (2025, April 11). Impact of Sample Size on Quantifying Bioturbation in Burrow-Related Strata. https://qubalee.com/posts/2025/04/quantifying-bioturbation/
 {: .prompt-info } 
 
 

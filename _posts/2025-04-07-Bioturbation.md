@@ -35,7 +35,10 @@ Bioerosion sedimentary structures include borings, gnawings, scrapings, bitings,
    - Spatial patterns variations of a burrowed carbonate stratum (ramp carbonates), Upper Jurassic Hanifa Formation, central Saudi Arabia [^8].
 
 ## Cite this post
->If you found this post helpful, please consider citing the references below:
+If you found this post helpful, please consider citing it and the references below:
+
+>Alqubalee, A. (2025, April 7). Bioturbation Impact on Reservoir and Aquifer Properties. https://qubalee.com/posts/2025/04/bioturbation/
+{: .prompt-info } 
 
 ## References
 

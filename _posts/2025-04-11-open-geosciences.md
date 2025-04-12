@@ -230,6 +230,7 @@ _____
 If you found this post helpful, please consider citing it:
 
 > Alqubalee, A. (2025, April 11). Open Geosciences. [https://qubalee.com/posts/2025/04/open-geosciences/](https://qubalee.com/posts/2025/04/open-geosciences)
+{: .prompt-info } 
 
 
 ## References
