@@ -11,10 +11,9 @@ In addition to my laboratory role, I work as a researcher in sedimentology and r
 
 I have completed numerous research projects and published various articles that concentrate on diagenesis and the factors influencing the quality of reservoirs, aquifers, and storage. My work provides valuable insights into how geological processes shape both the surface and subsurface, as well as how these processes impact the quality and availability of natural resources.
 
->If you would like to know more
-{: .prompt-tip }
 
-Please read my [Archives](/archives/) or check out my other webpages:
+>If you would like to know more about my research activities, please read my [Archives](/archives/) or check out my other webpages:
+{: .prompt-tip }
 
 [![CPG](https://raw.githubusercontent.com/qubalee/qubalee/refs/heads/main/images/icons/college-c.png "CPG")](https://cpg.kfupm.edu.sa/bio/qubalee/) 
 [![KFUPM](https://raw.githubusercontent.com/qubalee/qubalee/refs/heads/main/images/icons/university-c.png "KFUPM")](https://pure.kfupm.edu.sa/en/persons/abdullah-alqubalee) 
