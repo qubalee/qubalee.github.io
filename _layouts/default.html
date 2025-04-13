@@ -75,7 +75,7 @@ layout: compress
     {% endif %}
 
     <!-- Embedded scripts -->
-
+ {% include g.ads.html %}
     {% for _include in layout.script_includes %}
       {% assign _include_path = _include | append: '.html' %}
       {% include {{ _include_path }} %}
