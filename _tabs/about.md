@@ -18,7 +18,7 @@ I have completed numerous research projects and published various articles that 
 [![CPG](https://raw.githubusercontent.com/qubalee/qubalee/refs/heads/main/images/icons/college-c.png "CPG")](https://cpg.kfupm.edu.sa/bio/qubalee/) 
 [![KFUPM](https://raw.githubusercontent.com/qubalee/qubalee/refs/heads/main/images/icons/university-c.png "KFUPM")](https://pure.kfupm.edu.sa/en/persons/abdullah-alqubalee) 
 [![LinkedIn](https://raw.githubusercontent.com/qubalee/qubalee/refs/heads/main/images/icons/linkedin-c.png "LinkedIn")](https://linkedin.com/in/qubalee) 
-[![ResearchGate](https://raw.githubusercontent.com/qubalee/qubalee/refs/heads/main/images/icons/res-g.png "ResearchGate")](ttps://scholar.google.com/citations?user=B-qHbuwAAAAJ&hl=en&oi=ao)
+[![ResearchGate](https://raw.githubusercontent.com/qubalee/qubalee/refs/heads/main/images/icons/res-g.png "ResearchGate")]([ttps://scholar.google.com/citations?user=B-qHbuwAAAAJ&hl=en&oi=ao](https://www.researchgate.net/profile/Abdullah-Alqubalee))
 [![Google Scholar](https://raw.githubusercontent.com/qubalee/qubalee/refs/heads/main/images/icons/googlescholar-c.png "Google Scholar")](ttps://scholar.google.com/citations?user=B-qHbuwAAAAJ&hl=en&oi=ao)
 [![ORCID](https://raw.githubusercontent.com/qubalee/qubalee/refs/heads/main/images/icons/orcid-c.png "ORCID")](https://orcid.org/0000-0002-0543-9026) 
 [![Scopus](https://raw.githubusercontent.com/qubalee/qubalee/refs/heads/main/images/icons/scopus.png "Scopus")](https://www.scopus.com/authid/detail.uri?authorId=57196439599) 
