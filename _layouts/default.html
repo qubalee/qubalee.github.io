@@ -20,6 +20,7 @@ layout: compress
     {% include sidebar.html lang=lang %}
 
     <div id="main-wrapper" class="d-flex justify-content-center">
+       {% include g.ads.html %} <!-- Ads will appear above the main content -->
       <div class="container d-flex flex-column px-xxl-5">
         {% include topbar.html lang=lang %}
 
@@ -75,7 +76,6 @@ layout: compress
     {% endif %}
 
     <!-- Embedded scripts -->
- {% include g.ads.html %}
     {% for _include in layout.script_includes %}
       {% assign _include_path = _include | append: '.html' %}
       {% include {{ _include_path }} %}
