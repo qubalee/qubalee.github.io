@@ -50,6 +50,6 @@ If you found this post helpful, please consider citing it:
 
 ## References
 
-[^1]: Google Scholar PDF Reader. (2025). *Chrome Web Store*. Retrieved April 14, 2025, from [https://chromewebstore.google.com/detail/google-scholar-pdf-reader/dahenjhkoodjbpjheillcadbppiidmhp?hl=en]
+[^1]: Google Scholar PDF Reader. (2025). *Chrome Web Store*. Retrieved April 14, 2025, from [https://chromewebstore.google.com/detail/google-scholar-pdf-reader/dahenjhkoodjbpjheillcadbppiidmhp?hl=en](https://chromewebstore.google.com/detail/google-scholar-pdf-reader/dahenjhkoodjbpjheillcadbppiidmhp?hl=en)
 
-[^2]: ExCITATION journal ranking in Google Scholar™. (2024). *Chrome Web Store*. Retrieved April 14, 2025, from [https://chromewebstore.google.com/detail/excitation-journal-rankin/aolbomhlimkdakklifkocohcgpmojdia?hl=en]
+[^2]: ExCITATION journal ranking in Google Scholar™. (2024). *Chrome Web Store*. Retrieved April 14, 2025, from [https://chromewebstore.google.com/detail/excitation-journal-rankin/aolbomhlimkdakklifkocohcgpmojdia?hl=en](https://chromewebstore.google.com/detail/excitation-journal-rankin/aolbomhlimkdakklifkocohcgpmojdia?hl=en)
