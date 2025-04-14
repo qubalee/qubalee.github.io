@@ -20,7 +20,7 @@ Based on the coefficient of variations (CV) of the burrow area of 234 2D slices,
 The BI and BC are important parameters for petrophysical evaluation, but the most frequently used approaches for evaluating the BI are mainly through limited 2D views (i.e., thin sections, slabbed cores, and outcrop faces). Furthermore, the size of the sample plays an important role in the quantification of the BI and BC. The burrow area varies vertically and laterally, and the variation decreases with increasing size of the samples. The burrow area mA and burrow volume mA are almost the same, but the mG and mH are flattened at larger core diameters. The results of this study indicate that the bulk permeability and burrow intrusion permeability are controlled by the sample size. The size of investigated samples for the BI and BC is important while conducting laboratory measurements for modeling petrophysical properties in the burrow-related strata.
 
 <figure style="text-align: center;">
-    <img src="/assets/images_posts/Segmented-burrows.png" alt="Figure 1: The CT scan segmented data of 4’ core sample showing the total volume, burrow volume and the connected volume of burrows.a" style="width: 100%;">
+    <img src="/assets/images_posts/Segmented-burrows.png" alt="Figure 1: The CT scan segmented data of 4’ core sample showing the total volume, burrow volume and the connected volume of burrows" style="width: 100%;">
     <figcaption>Figure 1: The CT scan segmented data of 4’ core sample showing the total volume, burrow volume and the connected volume of burrows.</figcaption>
 </figure>
 
