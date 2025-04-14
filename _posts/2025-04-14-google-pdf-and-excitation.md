@@ -5,7 +5,7 @@ permalink: /posts/2025/04/Google-PDF-Readerand-ExCITATION/
 categories: [Research, Research Tools]
 tags: [Research, PDF, Reader, Abstract, Ranking, Tool, Highlight, Google, ExCITATION]
 image:
-  path: /assets/images_posts/gs-profile.png
+  path: /assets/images_posts/gs-profile.PNG
 ---
 
 In the ever-evolving landscape of academic research, utilizing the right tools can significantly enhance the efficiency of literature reviews. This guide highlights two essential tools: a PDF reader for managing research papers and a journal ranking tool for evaluating sources.
