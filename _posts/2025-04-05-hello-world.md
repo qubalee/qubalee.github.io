@@ -2,7 +2,7 @@
 title: 'Hello World: Introducing ALQUBALEE Notes'
 date: 2025-04-05
 permalink: /posts/2025/04/hello-world/
-categories: [General]
+categories: [General, Announcements]
 tags: [Welcome, Hello, ALQUBALEE Notes]
 pin: true
 image:

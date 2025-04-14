@@ -2,7 +2,7 @@
 title: 'Open Geosciences'
 date: 2025-04-11
 permalink: /posts/2025/04/open-geosciences/
-categories: [Education]
+categories: [Education, Links]
 tags: [Open source, Geology, Books, Software, Web-based Application, Integration, Interaction]
 ---
 
