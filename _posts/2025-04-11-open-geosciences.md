@@ -6,7 +6,7 @@ categories: [Education, Links]
 tags: [Open source, Geology, Books, Software, Web-based Application, Integration, Interaction]
 image:
   path: /assets/images_posts/open-geo-cover.png
-  alt: Open-geosciences (Cover Image).
+  alt: Open geosciences (Cover Image).
 ---
 
 > **Note:**: This page has been updated and modified based on the work of Gosses et al [^1] to provide the most updated and relevant information. It will be updated regularly. If you encounter a broken link or would like to suggest any other links to add, please [let me know](/about/#contact-me). 
