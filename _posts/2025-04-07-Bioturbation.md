@@ -4,6 +4,9 @@ date: 2025-04-07
 permalink: /posts/2025/04/bioturbation/
 categories: [Research]
 tags: [Bioturbation, Thalassinoides, Ophiomorpha, Burrows]
+image:
+  path: /assets/images_posts/Thalassinoides-ct.png
+  alt: 3D segmented CT scan of Thalassinoides network (Eltom and Alqubalee, 2022) (Cover Image)
 ---
 
 Bioturbation is a process involving organisms interacting with sediments, and the products of such a process, including biogenic and bioerosional sedimentary structures.
