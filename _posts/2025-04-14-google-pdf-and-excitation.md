@@ -6,6 +6,7 @@ categories: [Research, Research Tools]
 tags: [Research, PDF, Reader, Abstract, Ranking, Tool, Highlight, Google, ExCITATION]
 image:
   path: /assets/images_posts/gs-profile.PNG
+  alt: A Google Profile After Installing the ExCITATION Extension (Cover Image)
 ---
 
 In the ever-evolving landscape of academic research, utilizing the right tools can significantly enhance the efficiency of literature reviews. This guide highlights two essential tools: a PDF reader for managing research papers and a journal ranking tool for evaluating sources.

@@ -4,6 +4,9 @@ date: 2025-04-11
 permalink: /posts/2025/04/quantifying-bioturbation/
 categories: [Research]
 tags: [Burrows, Burrow intensity, Burrow connectivity, Quantification, Thalassinoides, Size, Workflow]
+image:
+  path: /assets/images_posts/thalassinoides.png
+  alt: Burrow-bearing Core Samples with Multiple Diameters, 4, 6, 8, and 10 in (Cover Image)
 ---
 
 
