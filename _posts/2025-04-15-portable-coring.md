@@ -14,7 +14,7 @@ When embarking on a geological field trip, the inclusion of a portable coring ma
 Additionally, having a portable coring machine on-site facilitates immediate analysis of collected samples, enabling researchers to adapt their strategies based on preliminary findings. This dynamic approach enhances the overall productivity of the field trip, allowing geologists to make informed decisions in real time. Furthermore, for students and early-career professionals, the opportunity to use such equipment provides crucial hands-on experience, preparing them for future challenges in the field. Ultimately, investing in a portable coring machine not only improves research outcomes but also enriches educational experiences, making it a vital asset for any geological exploration.
 
 <figure style="text-align: center;">
-    <img src="/assets/images_posts/amz/coring-machine.png" style="width: 100%;">
+    <img src="/assets/images_posts/amz/coring-machine.png" alt="Figure 1: An example of a portable coring machine used in the field" style="width: 100%;">
     <figcaption>Figure 1: An example of a portable coring machine used in the field.</figcaption>
 </figure>
 
