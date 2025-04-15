@@ -15,7 +15,7 @@ Additionally, having a portable coring machine on-site facilitates immediate ana
 
 <figure style="text-align: center;">
     <img src="/assets/images_posts/amz/coring-machine.jpg" alt="Figure 1: An example of a portable coring machine used in the field" style="width: 100%;">
-    <figcaption>Figure 1: An example of a portable coring machine used in the field.</figcaption>
+    <figcaption>Figure 1: An example of a portable coring machine used in the field. Thanks, Adhipa, for holding it!.</figcaption>
 </figure>
 
 
