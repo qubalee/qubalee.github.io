@@ -45,13 +45,13 @@ If you found this post helpful, please consider citing it and the references bel
 
 ## References
 
-[^1]: Eltom, H.A., and Alqubalee, A.M. (2022). *Quantifying the bioturbation intensity of Thalassinoides-bearing strata in two- and three-dimensional views*. Palaios.
+[^1]: Eltom, H.A., and Alqubalee, A.M. (2022). *Quantifying the bioturbation intensity of Thalassinoides-bearing strata in two- and three-dimensional views*. Palaios. [https://doi.org/10.2110/palo.2021.012](https://doi.org/10.2110/palo.2021.012)
 
-[^2]: El-Husseiny, A., Eltom, H., Alqubalee, A., Abdlmutalib, A., Al-Mukainah, H., & Syahputra, R. N. (2022). *Distinct Petroacoustic Signature of Burrow-Related Carbonate Reservoirs: Outcrop Analog Study, Hanifa Formation, Central Saudi Arabia*. Natural Resources Research, 1-26.
+[^2]: El-Husseiny, A., Eltom, H., Alqubalee, A., Abdlmutalib, A., Al-Mukainah, H., & Syahputra, R. N. (2022). *Distinct Petroacoustic Signature of Burrow-Related Carbonate Reservoirs: Outcrop Analog Study, Hanifa Formation, Central Saudi Arabia*. Natural Resources Research, 1-26. [https://doi.org/10.1007/s11053-022-10097-w](https://doi.org/10.1007/s11053-022-10097-w)
 
 [^3]: Eltom, H.A., Alqubalee, A.M., Sultan, A.S., Barri, A.A., Abdelbasit, K. (2021). *Understanding the permeability of burrow-related gas reservoirs through integrated laboratory techniques*. J. Nat. Gas Sci. Eng. 103917. [https://doi.org/10.1016/j.jngse.2021.103917](https://doi.org/10.1016/j.jngse.2021.103917)
 
-[^4]: Eltom, H.A., Alqubalee, A.M., Babalola, L. O. (2022). *Understanding the two-dimensional quantification of bioturbation intensity through computer modeling and statistical analysis*. International Journal of Earth Sciences.
+[^4]: Eltom, H.A., Alqubalee, A.M., Babalola, L. O. (2022). *Understanding the two-dimensional quantification of bioturbation intensity through computer modeling and statistical analysis*. International Journal of Earth Sciences. [https://doi.org/10.1007/s00531-021-02102-z](https://doi.org/10.1007/s00531-021-02102-z)
 
 [^5]: Eltom, H., Gonzalez, L., Alqubalee, A., Amao, A., Salih, M. (2020). *Evidence for the development of a superpermeability flow zone by bioturbation in shallow marine strata, upper Jubaila Formation, central Saudi Arabia*. Journal of Marine and Petroleum Geology, 104512. [https://doi.org/10.1016/j.marpetgeo.2020.104512](https://doi.org/10.1016/j.marpetgeo.2020.104512)
 
@@ -59,4 +59,4 @@ If you found this post helpful, please consider citing it and the references bel
 
 [^7]: Alqubalee, A., Muharrag, J., Salisu, A. M., & Eltom, H. (2022). *The negative impact of Ophiomorpha on reservoir quality of channelized deposits in mixed carbonate-siliciclastic setting: The case study of the Dam Formation, Saudi Arabia*. Marine and Petroleum Geology, 140, 105666. [https://doi.org/10.1016/j.marpetgeo.2022.105666] (https://doi.org/10.1016/j.marpetgeo.2022.105666)
 
-[^8]: Syahputra, M. R. N., Eltom, H. A., El-Husseiny, A., Kaminski, M. A., & Alqubalee, A. M. (2022). *Spatial patterns variations of a burrowed carbonate stratum (ramp carbonates), Upper Jurassic Hanifa Formation, central Saudi Arabia*. Sedimentary Geology, 435, 106146.
+[^8]: Syahputra, M. R. N., Eltom, H. A., El-Husseiny, A., Kaminski, M. A., & Alqubalee, A. M. (2022). *Spatial patterns variations of a burrowed carbonate stratum (ramp carbonates), Upper Jurassic Hanifa Formation, central Saudi Arabia*. Sedimentary Geology, 435, 106146. [https://doi.org/10.1016/j.sedgeo.2022.106146](https://doi.org/10.1016/j.sedgeo.2022.106146)
