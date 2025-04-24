@@ -19,7 +19,8 @@ _____
 - [Geocomputation with R](https://r.geocompx.org/) - A book on geographic data analysis, visualization and modeling.
 - [Applied Geostatistics in Python: a Hands-on Guide with GeostatsPy](https://geostatsguy.github.io/GeostatsPyDemos_Book/intro.html) - This e-book provides an accessible, online version for Undergraduate Data Analytics and Geostatistics Courses, more [^2].
 - [Applied Machine Learning in Python: A Hands-on Guide with Code](https://geostatsguy.github.io/MachineLearningDemos_Book/intro.html) - A chapter of e-book “Applied Machine Learning in Python: a Hands-on Guide with Code, more [^3].
-- [QGIS in Mineral Exploration](https://qgis-in-mineral-exploration.readthedocs.io/en/latest/) - This manual examines QGIS and how QGIS for mapping and geoscientific tasks. 
+- [QGIS in Mineral Exploration](https://qgis-in-mineral-exploration.readthedocs.io/en/latest/) - This manual examines QGIS and how QGIS for mapping and geoscientific tasks.
+- [Introduction to Modern Statistics](https://openintro-ims.netlify.app/) - Also called [IMS](https://github.com/openintrostat/ims).
 
 
 # Software
