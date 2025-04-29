@@ -115,6 +115,7 @@ _____
 - [SciKit-GStat](https://github.com/mmaelicke/scikit-gstat) – SciPy-styled analysis module for geostatistics.
 - [SGeMS](https://sgems.sourceforge.net) – Stanford geostatistical modelling software.
 - [bm_geostat_process](https://github.com/pemn/bm_geostat_process) - open source workflow for geostatistics block models.
+- [Geostatistics Lessons](https://geostatisticslessons.com) - Geostatistics practice.
 
 ## Geospatial
 - [Generic Mapping Tools (GMT)](https://www.generic-mapping-tools.org) – About 80 command-line tools for manipulating geographic and Cartesian data sets.
