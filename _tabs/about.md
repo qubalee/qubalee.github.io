@@ -33,25 +33,4 @@ ___
 ---
 ## Contact me
 
-You can reach out to me via [abdullah@qubalee.com](mailto:abdullah@qubalee.com) or using the form below:
-
-
-<form action="https://formsubmit.co/abdullah@qubalee.com" method="POST" style="max-width: 600px; margin: auto; padding: 20px; border: 0px solid #ccc; border-radius: 8px; background:rgba(226, 226, 226, 0);">
-        <div class="form-group" style="margin-bottom: 15px;">
-        <input type="text" name="name" placeholder="Name" required style="width: 100%; padding: 10px; border: 1px solid #ccc; border-radius: 4px;">
-    </div>
-        <div class="form-group" style="margin-bottom: 15px;">
-        <input type="email" name="email" placeholder="Email" required style="width: 100%; padding: 10px; border: 1px solid #ccc; border-radius: 4px;">
-    </div>
-        <div class="form-group" style="margin-bottom: 15px;">
-        <input type="text" name="subject" placeholder="Subject" required style="width: 100%; padding: 10px; border: 1px solid #ccc; border-radius: 4px;">
-    </div>
-        <div class="form-group" style="margin-bottom: 15px;">
-        <textarea name="message" rows="4" placeholder="Your Message" required style="width: 100%; padding: 10px; border: 1px solid #ccc; border-radius: 4px;"></textarea>
-    </div>
-        <button type="submit" style="width: 100%; padding: 10px; background-color:rgb(103, 104, 105); color: white; border: none; border-radius: 4px; font-size: 16px; cursor: pointer;">
-        Send Message
-    </button>
-        <input type="hidden" name="_next" value="https://qubalee.github.io/qubalee/thanks">
-    <input type="hidden" name="_captcha" value="false">
-</form><p>
+You can reach out to me via [abdullah@qubalee.com](mailto:abdullah@qubalee.com).
