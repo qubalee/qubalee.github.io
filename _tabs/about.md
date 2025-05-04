@@ -12,8 +12,19 @@ In addition to my laboratory role, I work as a researcher in sedimentology and r
 I have completed numerous research projects and published various articles that concentrate on diagenesis and the factors influencing the quality of reservoirs, aquifers, and storage. My work provides valuable insights into how geological processes shape both the surface and subsurface, as well as how these processes impact the quality and availability of natural resources.
 
 
->If you would like to know more about my research activities, please read my [Archives](/archives/) or check out my other webpages:
-{: .prompt-tip }
+
+
+___
+
+
+## Contact me
+
+
+> You can reach out to me via [abdullah@qubalee.com](mailto:abdullah@qubalee.com).
+{: .prompt-info }
+
+
+If you would like to know more about my research activities, please read my [Archives](/archives/) or check out my other webpages:
 
 [![CPG](https://raw.githubusercontent.com/qubalee/qubalee/refs/heads/main/images/icons/college-c.png "CPG")](https://cpg.kfupm.edu.sa/bio/qubalee/) 
 [![KFUPM](https://raw.githubusercontent.com/qubalee/qubalee/refs/heads/main/images/icons/university-c.png "KFUPM")](https://pure.kfupm.edu.sa/en/persons/abdullah-alqubalee) 
@@ -24,13 +35,5 @@ I have completed numerous research projects and published various articles that 
 [![Scopus](https://raw.githubusercontent.com/qubalee/qubalee/refs/heads/main/images/icons/scopus.png "Scopus")](https://www.scopus.com/authid/detail.uri?authorId=57196439599) 
 
 
+<small>This blog was built using the [Chirpy theme](https://github.com/cotes2020/jekyll-theme-chirpy) for [Jekyll](https://jekyllrb.com/), and hosted on [GitHub Pages](https://pages.github.com/)</small>
 
-___
-
-> This blog was built using the [Chirpy theme](https://github.com/cotes2020/jekyll-theme-chirpy) for [Jekyll](https://jekyllrb.com/), and hosted on [GitHub Pages](https://pages.github.com/).
-{: .prompt-info }
-
----
-## Contact me
-
-You can reach out to me via [abdullah@qubalee.com](mailto:abdullah@qubalee.com).
