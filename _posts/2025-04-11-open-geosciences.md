@@ -21,6 +21,9 @@ _____
 - [Applied Machine Learning in Python: A Hands-on Guide with Code](https://geostatsguy.github.io/MachineLearningDemos_Book/intro.html) - A chapter of e-book “Applied Machine Learning in Python: a Hands-on Guide with Code, more [^3].
 - [QGIS in Mineral Exploration](https://qgis-in-mineral-exploration.readthedocs.io/en/latest/) - This manual examines QGIS and how QGIS for mapping and geoscientific tasks.
 - [Introduction to Modern Statistics](https://openintro-ims.netlify.app/) - Also called [IMS](https://github.com/openintrostat/ims).
+- [Geo-Python](https://geo-python-site.readthedocs.io/en/latest/) - A course teaches you the basic concepts of Python programming and geoscientific data analysis.
+- [Automating GIS Processes](https://autogis-site.readthedocs.io/en/latest/) - This course introduces you to geographic data analysis using the Python programming language.
+- [IntroQG](https://introqg-site.readthedocs.io/en/latest/) - The Introduction to Quantitative Geology course at the University of Helsinki. 
 
 
 # Software
