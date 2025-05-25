@@ -24,6 +24,7 @@ _____
 - [Geo-Python](https://geo-python-site.readthedocs.io/en/latest/) - A course teaches you the basic concepts of Python programming and geoscientific data analysis.
 - [Automating GIS Processes](https://autogis-site.readthedocs.io/en/latest/) - This course introduces you to geographic data analysis using the Python programming language.
 - [IntroQG](https://introqg-site.readthedocs.io/en/latest/) - The Introduction to Quantitative Geology course at the University of Helsinki. 
+- [Machine Learning in the Geosciences](https://geo-smart.github.io/mlgeo-book/about_this_book/about_this_book.html) - It introduces Machine Learning in Geosciences, the basics of computing, and methodologies in applied machine learning.
 
 
 # Software
