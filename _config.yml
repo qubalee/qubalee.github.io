@@ -221,9 +221,11 @@ jekyll-archives:
   layouts:
     category: category
     tag: tag
+    open-geo: open-geo
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+    open-geo: /open-geo/:name/
 
 include:
  - ads.txt 
