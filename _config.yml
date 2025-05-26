@@ -185,7 +185,7 @@ defaults:
   - scope:
       path: _drafts
     values:
-      comments: false
+      comments: true
   - scope:
       path: ""
       type: tabs # see `site.collections`
@@ -226,6 +226,7 @@ jekyll-archives:
     tag: /tags/:name/
     category: /categories/:name/
     open-geo: /open-geo/:name/
+    AMLDocs: /AMLDocs/:name/
 
 include:
  - ads.txt 
