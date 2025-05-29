@@ -227,6 +227,7 @@ jekyll-archives:
     category: /categories/:name/
     open-geo: /open-geo/:name/
     AMLDocs: /AMLDocs/:name/
+    podcast: /podcast/:name/
 
 include:
  - ads.txt 
