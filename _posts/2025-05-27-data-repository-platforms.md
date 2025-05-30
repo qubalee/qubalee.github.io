@@ -37,7 +37,7 @@ The [registry](https://www.re3data.org/) of research data repositories (Figure 1
 
 ## Local vs. Cloud Repositories
 
-For researchers wishing to store their data in the cloud and associate it with their articles, Open Science frameworks and Zenodo are useful. Both provide a DOI number for the dataset and can store from 5 GB to 50 GB of data, respectively.
+For researchers wishing to store their data in the cloud and associate it with their articles, [Open Science frameworks](https://osf.io/) and [Zenodo](https://zenodo.org/) are useful. Both provide a DOI number for the dataset and can store from 5 GB to 50 GB of data, respectively.
 However, deploying a local data repository offers greater control over data, security, and performance. Storing data on-premises keeps sensitive information within your infrastructure, reducing the risk of breaches. Local repositories facilitate faster access and offer customization to meet specific needs. With offline access, you can retrieve critical information without internet connectivity, making it a reliable choice for organizations. Ultimately, a local repository enables confident and adaptable data management. Here are several examples of open-source data repository platforms that can be deployed locally:
 
 - [InvenioRDM](https://inveniordm.web.cern.ch/) [^9]
