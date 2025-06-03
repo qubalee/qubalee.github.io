@@ -12,7 +12,7 @@ image:
 
 Hello! I’m thrilled to introduce the very first post on **ALQUBALEE Notes**. The primary goal of this platform is to share insights related to geoscience, showcase my research, and discuss the challenges we encounter in this vital field. I envision this website as a hub for education and a focal point for fostering research collaborations.
 
-Currently, my research focuses on exploring the diverse geological processes that shape both the Earth's surface and subsurface. My aim is to gain a deeper understanding of how these processes influence the quality and availability of our natural resources.
+Currently, my research focuses on exploring the diverse geological processes that shape both the Earth's surface and subsurface. The aim is to gain a deeper understanding of how these processes influence the quality and availability of our natural resources.
 
 I invite you to join me on this journey as we delve into the fascinating world of geoscience!
 
