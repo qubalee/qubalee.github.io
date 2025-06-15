@@ -1,0 +1,21 @@
+.news-updates h3 {
+  font-size: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+.news-updates a {
+  text-decoration: none;
+  color: #007acc;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+#toggle-news-btn {
+  font-size: 0.85rem;
+  color: #007acc;
+  background: none;
+  border: none;
+  cursor: pointer;
+}
