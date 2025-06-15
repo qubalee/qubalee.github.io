@@ -46,7 +46,7 @@ not_found:
   statement: Sorry, we've misplaced that URL or it's pointing to something that doesn't exist.
 
 notification:
-  update_found: Exciting news! A new version of the content is now available, showcasing the latest updates. Please click on "Update" to access the new features.
+  update_found: Please click on "Update" to access the new features.
   update: Update
 
 # ----- Posts related labels -----
