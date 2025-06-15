@@ -6,8 +6,20 @@
   url: "https://arxiv.org/pdf/2506.02153"
   date: "2025-06-02"
 
+- title: "Open Geosciences"
+  url: "https://www.youtube.com/watch?v=vECcBEHjd-Q"
+  date: "2025-06-03"
+
 - title: "Automated Mineralogy 2D & 3D"
-  url: "https://www.youtube.com/watch?v=MC3JRLz-h7U&list=PLKf44cRVd8TO43lXnTbBmgrX1M3cViy7d&index=18"
-  date: "2025-07-11"
+  url: "https://www.youtube.com/watch?v=MC3JRLz-h7U"
+  date: "2025-06-11"
+
+- title: "Virtual Field Experiences in Geoscience"
+  url: "https://www.youtube.com/watch?v=Okm8CJ_CEwQ"
+  date: "2025-06-11"
+
+- title: "Reproducible Research in Geosciences"
+  url: "https://www.youtube.com/watch?v=zDrqgmbbT5U"
+  date: "2025-06-14"
 
 
