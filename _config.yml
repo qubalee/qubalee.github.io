@@ -222,12 +222,14 @@ jekyll-archives:
     category: category
     tag: tag
     open-geo: open-geo
+    highlights: /highlights
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
     open-geo: /open-geo/:name/
     AMLDocs: /AMLDocs/:name/
     podcast: /podcast/:name/
+
 
 include:
  - ads.txt 

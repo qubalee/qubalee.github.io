@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 4
+order: 2
 ---
 Welcome to **ALQUBALEE Notes**, my dedicated web space for sharing insights and discussions on topics related to my geoscience research and educational activities.
 

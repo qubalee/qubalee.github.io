@@ -1,5 +1,5 @@
 ---
 layout: open-geo
 icon: fas fa-unlock
-order: 5
+order: 7
 ---
