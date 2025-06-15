@@ -1,7 +1,7 @@
 ---
 layout: highlights
 icon: fas fa-highlighter
-title: Recent Highlights
+title: Highlights
 permalink: /highlights/
 order: 4
 ---
