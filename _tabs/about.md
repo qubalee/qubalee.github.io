@@ -33,6 +33,7 @@ If you would like to know more about my research activities, please read my [Arc
 [![Google Scholar](https://raw.githubusercontent.com/qubalee/qubalee/refs/heads/main/images/icons/googlescholar-c.png "Google Scholar")](https://scholar.google.com/citations?user=B-qHbuwAAAAJ&hl=en&oi=ao)
 [![ORCID](https://raw.githubusercontent.com/qubalee/qubalee/refs/heads/main/images/icons/orcid-c.png "ORCID")](https://orcid.org/0000-0002-0543-9026) 
 [![Scopus](https://raw.githubusercontent.com/qubalee/qubalee/refs/heads/main/images/icons/scopus.png "Scopus")](https://www.scopus.com/authid/detail.uri?authorId=57196439599) 
+[![Web of Science](https://github.com/qubalee/qubalee/blob/main/images/wos.png?raw=true "Web of Science")](https://www.webofscience.com/wos/author/record/AAV-6030-2020) 
 
 
 <small>This blog was built using the [Chirpy theme](https://github.com/cotes2020/jekyll-theme-chirpy) for [Jekyll](https://jekyllrb.com/), and hosted on [GitHub Pages](https://pages.github.com/)</small>
