@@ -36,5 +36,5 @@ If you would like to know more about my research activities, please read my [Arc
 [![Web of Science](https://github.com/qubalee/qubalee/blob/main/images/wos.png?raw=true "Web of Science")](https://www.webofscience.com/wos/author/record/AAV-6030-2020) 
 
 
-<small>Intended for knowledge sharing, any opinions expressed are solely my own. This blog was built using the [Chirpy theme](https://github.com/cotes2020/jekyll-theme-chirpy) for [Jekyll](https://jekyllrb.com/), and hosted on [GitHub Pages](https://pages.github.com/)</small>
+<small> * Intended for knowledge sharing, any opinions expressed are solely my own. This blog was built using the [Chirpy theme](https://github.com/cotes2020/jekyll-theme-chirpy) for [Jekyll](https://jekyllrb.com/), and hosted on [GitHub Pages](https://pages.github.com/)</small>
 
