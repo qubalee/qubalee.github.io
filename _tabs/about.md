@@ -5,9 +5,9 @@ order: 2
 ---
 Welcome to **ALQUBALEE Notes**, my dedicated web space for sharing insights and discussions on topics related to my geoscience research and educational activities.
 
-My name is **Abdullah Alqubalee**, and I am a PhD geoscience researcher. I possess extensive experience in both industry and academia. I am currently supervising the [Automated Mineralogy Laboratory](https://cpg.kfupm.edu.sa/aml) at [CPG](https://cpg.kfupm.edu.sa/) [KFUPM](https://kfupm.edu.sa/), where I operate and maintain automated mineralogy equipment and perform mineralogical analyses on a variety of samples.
+My name is **Abdullah Alqubalee**, and I am a PhD geoscience researcher. I possess extensive experience in both industry and academia. I am currently supervising an Automated Mineralogy Laboratory, where I operate and maintain automated mineralogy equipment and perform mineralogical analyses on a variety of samples.
 
-In addition to my laboratory role, I work as a researcher in sedimentology and reservoir characterization within the Geosystem Research Group. My research focuses on investigating various geological formations to understand the quality of reservoirs, aquifers, and storage systems.
+In addition to my laboratory role, I work as a researcher in sedimentology and reservoir characterization within a geosystem research group. My research focuses on investigating various geological formations to understand the quality of reservoirs, aquifers, and storage systems.
 
 I have completed numerous research projects and published various articles that concentrate on diagenesis and the factors influencing the quality of reservoirs, aquifers, and storage. My work provides valuable insights into how geological processes shape both the surface and subsurface, as well as how these processes impact the quality and availability of natural resources.
 
