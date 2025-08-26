@@ -228,6 +228,7 @@ jekyll-archives:
     category: /categories/:name/
     open-geo: /open-geo/:name/
     AMLDocs: /AMLDocs/:name/
+    about: /about/:name/
     podcast: /podcast/:name/
 
 
