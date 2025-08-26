@@ -47,7 +47,7 @@ Incorporating tools like the Google Scholar PDF Reader [^1] and ExCITATION [^2] 
 
 ## Cite this post
 If you found this post helpful, please consider citing it: 
->Alqubalee, A. (2025, April 14). Optimizing Research Efficiency with PDF Reader and Journal Ranking Tool Extensions. https://qubalee.com/posts/2025/04/Google-PDF-Readerand-ExCITATION/
+>Alqubalee, A. (2025, April 14). Optimizing Research Efficiency with PDF Reader and Journal Ranking Tool Extensions. https://qubalee.github.io/posts/2025/04/Google-PDF-Readerand-ExCITATION/
 {: .prompt-info } 
 
 

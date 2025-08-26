@@ -10,7 +10,7 @@ image:
 ---
 
 
-In the realm of digital geosciences, managing geological data is essential for achieving successful project outcomes. Geological data, known for its complexity and volume, presents significant challenges in organization and control. This management extends beyond the data itself to include careful oversight of its metadata. Moreover, documenting the steps involved in data acquisition and processing is crucial for ensuring data quality. The interactive component is equally significant, as it introduces a dynamic dimension to data control, as highlighted by the [WIIP Approach](https://qubalee.com/posts/2025/04/wiip/)[^1]. This comprehensive strategy not only enhances data integrity but also fosters effective collaboration and informed decision-making.
+In the realm of digital geosciences, managing geological data is essential for achieving successful project outcomes. Geological data, known for its complexity and volume, presents significant challenges in organization and control. This management extends beyond the data itself to include careful oversight of its metadata. Moreover, documenting the steps involved in data acquisition and processing is crucial for ensuring data quality. The interactive component is equally significant, as it introduces a dynamic dimension to data control, as highlighted by the [WIIP Approach](https://qubalee.github.io/posts/2025/04/wiip/)[^1]. This comprehensive strategy not only enhances data integrity but also fosters effective collaboration and informed decision-making.
 
 ## Importance of Geological Data Management
 
@@ -54,13 +54,13 @@ Selecting the right data management strategy—be it local or cloud-based—is v
 
 ## Cite this post
 If you found this post helpful, please consider citing it: 
->Alqubalee, A. (2025, May 27). Management of Geological Data: Local and Cloud-Based. https://qubalee.com/posts/2025/05/data-repository-platforms/
+>Alqubalee, A. (2025, May 27). Management of Geological Data: Local and Cloud-Based. https://qubalee.github.io/posts/2025/05/data-repository-platforms/
 {: .prompt-info } 
 
 # Refereces
 
 
-[^1]: Alqubalee, A. (2025, April 8). WIIP: An Approach for Leveraging Geological Data Heterogeneity through Customization of Open-Source Software. [https://qubalee.com/posts/2025/04/wiip/](https://qubalee.com/posts/2025/04/wiip/)
+[^1]: Alqubalee, A. (2025, April 8). WIIP: An Approach for Leveraging Geological Data Heterogeneity through Customization of Open-Source Software. [https://qubalee.github.io/posts/2025/04/wiip/](https://qubalee.github.io/posts/2025/04/wiip/)
 
 [^2]: U.S. Geological Survey. (2025). *Data management*. Retrieved May 27, 2025, from [https://www.usgs.gov/data-management](https://www.usgs.gov/data-management)
 

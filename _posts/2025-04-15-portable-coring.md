@@ -54,5 +54,5 @@ Here is a suggested list of portable tools for coring that I used on my geologic
 
 ## Cite this post
 If you found this post helpful, please consider citing it: 
->Alqubalee, A. (2025, April 15). A Portable Coring Machine: Key Tools for Geological Fieldwork. https://qubalee.com/posts/2025/04/Portable-Coring-Machine/
+>Alqubalee, A. (2025, April 15). A Portable Coring Machine: Key Tools for Geological Fieldwork. https://qubalee.github.io/posts/2025/04/Portable-Coring-Machine/
 {: .prompt-info } 
