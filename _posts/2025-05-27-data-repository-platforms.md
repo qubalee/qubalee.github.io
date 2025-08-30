@@ -54,7 +54,7 @@ Selecting the right data management strategy—be it local or cloud-based—is v
 
 ## Cite this post
 If you found this post helpful, please consider citing it: 
->Alqubalee, A. (2025, May 27). Management of Geological Data: Local and Cloud-Based. https://qubalee.github.io/posts/2025/05/data-repository-platforms/
+>Alqubalee, A. (2025, May 27). Management of Geological Data: Local and Cloud-Based. ALQUBALEE Notes. https://qubalee.github.io/posts/2025/05/data-repository-platforms/
 {: .prompt-info } 
 
 # Refereces
