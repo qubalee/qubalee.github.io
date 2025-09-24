@@ -1,71 +1,127 @@
-- title: "Accurate calibration for fused-bead XRF"
-  url: "https://www.malvernpanalytical.com/en/learn/knowledge-center/application-notes/an250530-revontium-wroxi?utm_source=AzoM&utm_medium=newsletter&utm_content=Revontium&utm_campaign=Mining"
-  date: "2025-05-30"
-
-- title: "SLMs are the Future of Agentic AI"
-  url: "https://arxiv.org/pdf/2506.02153"
-  date: "2025-06-02"
-
-- title: "Open Geosciences"
-  url: "https://www.youtube.com/watch?v=vECcBEHjd-Q"
-  date: "2025-06-03"
-
-- title: "Automated Mineralogy 2D & 3D"
-  url: "https://www.youtube.com/watch?v=MC3JRLz-h7U"
-  date: "2025-06-11"
-
-- title: "Virtual Field Experiences in Geoscience"
-  url: "https://www.youtube.com/watch?v=Okm8CJ_CEwQ"
-  date: "2025-06-11"
-
-- title: "Reproducible Research in Geosciences"
-  url: "https://www.youtube.com/watch?v=zDrqgmbbT5U"
-  date: "2025-06-14"
-
-- title: "Building AI-Powered workflows with LangGraph"
-  url: "https://medium.com/box-developer-blog/building-ai-powered-workflows-with-langgraph-and-box-api-edc5ec18fa2f"
-  date: "2025-05-14"
-
-- title: "Local Google AI Edge Gallery App"
-  url: "https://github.com/google-ai-edge/gallery?tab=readme-ov-file"
-  date: "2025-05-30"
-
-- title: "Your First AI Agent .."
-  url: "https://diamantai.substack.com/p/your-first-ai-agent-simpler-than"
-  date: "2025-02-10"
-
-- title: "Attention Is All You Need"
-  url: "https://arxiv.org/pdf/1706.03762"
-  date: "2023-08-02"
-
-- title: "DeepDive GeoPodcast S1"
-  url: "https://www.youtube.com/playlist?list=PLKf44cRVd8TO43lXnTbBmgrX1M3cViy7d"
-  date: "2025-06-01"
-
-- title: "Research Integrity Risk Index"
-  url: "https://youtu.be/xvOaebKy01E?feature=shared"
-  date: "2025-06-11"
-
-- title: "Middle East Map Series"
-  url: "https://dx.doi.org/10.13140/RG.2.2.32826.09925"
-  date: "2025-08-16"
-
-- title: "Various elements of a potential hydrogen system in Saudi Arabia"
-  url: "https://dx.doi.org/10.1515/9783111437040-019"
-  date: "2025-08-01"
-
-- title: "AlphaEarth Foundations helps map our planet in unprecedented detail"
-  url: "https://deepmind.google/discover/blog/alphaearth-foundations-helps-map-our-planet-in-unprecedented-detail/"
-  date: "2025-07-30"
-
-- title: "GeoGPT: A Non-Profit Exploratory Research Project"
-  url: "https://geogpt.zero2x.org/"
-  date: "2025-08-01"
-
-- title: "Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task"
-  url: "https://www.brainonllm.com/"
-  date: "2025-06-10"
-
 - title: "Contact morphology of sand particles in dunes"
   url: "https://doi.org/10.1038/s41598-025-15888-8"
-  date: "2025-08-19"
+  date: 2025-08-19
+
+- title: "Various elements of a potential hydrogen system in Saudi Arabia (Chapter 19)"
+  url: "https://doi.org/10.1515/9783111437040-019"
+  date: 2025-03-29
+
+- title: "Shift from arc to within-plate magmatism at 635 Ma as recorded by Neoproterozoic dikes, southern Midyan terrane, NW Arabian Shield"
+  url: "https://doi.org/10.1016/j.precamres.2024.107430"
+  date: 2024-08-01
+
+- title: "Source rock potential, thermal maturity, and depositional environment of the Ordovician Ra’an Shale Member, central Saudi Arabia"
+  url: "https://doi.org/10.1016/j.jaesx.2024.100174"
+  date: 2024-06-01
+
+- title: "Controls on mechanical properties of a carbonate mudstone: Insights from non-destructive techniques and geochemical data"
+  url: "https://doi.org/10.1016/j.marpetgeo.2024.106702"
+  date: 2024-03-01
+
+- title: "Depositional and sequence stratigraphic controls on diagenesis in the Upper Cambrian-Lower Ordovician Barik Formation, central Oman"
+  url: "https://doi.org/10.1016/j.marpetgeo.2023.106611"
+  date: 2024-02-01
+
+- title: "Mineralogy and Geochemistry of the Paleocene–Eocene Palana Formation in Western Rajasthan, India"
+  url: "https://doi.org/10.3390/min14020126"
+  date: 2024-01-24
+
+- title: "Diagenetic Controls on Reservoir Porosity of Aeolian and Fluvial Deposits: A Case Study from Permo-Carboniferous Sandstones of Saudi Arabia"
+  url: "https://doi.org/10.1007/s13369-023-08590-2"
+  date: 2024-01-02
+
+- title: "Genesis of Grain-Coating Clays and Their Effect on the Development of Feldspar Overgrowths"
+  url: "https://doi.org/10.1007/978-3-031-48758-3_8"
+  date: 2024-03-20
+
+- title: "Characteristics, distribution, and origin of ferruginous deposits in an ancient glaciogenic setting: Late Ordovician of Arabia"
+  url: "https://doi.org/10.1038/s41598-023-45563-9"
+  date: 2023-10-27
+
+- title: "Impact of kaolinite and iron oxide cements on resistivity and quality of low resistivity pay sandstones"
+  url: "https://doi.org/10.1016/j.marpetgeo.2023.106568"
+  date: 2023-10-01
+
+- title: "Glaciogenic tight sand reservoirs in the Arabian Plate: Upper Ordovician deposits, Saudi Arabia (Chapter 2)"
+  url: "https://www.earthdoc.org/content/books/9789462824911#chapters"
+  date: 2023-12-01
+
+- title: "Decision Tree Ensembles for Automatic Identification of Lithology"
+  url: "https://doi.org/10.2118/214460-MS"
+  date: 2023-01-17
+
+- title: "Impact of grain-coating illite in preventing quartz cementation: Example from permo-carboniferous sandstone, Central Saudi Arabia"
+  url: "https://doi.org/10.1016/j.marpetgeo.2022.106073"
+  date: 2023-01-01
+
+- title: "Stable carbon and oxygen isotope records in a Middle Jurassic carbonate sequence"
+  url: "https://doi.org/10.1007/s00531-022-02261-7"
+  date: 2022-11-21
+
+- title: "Distinct Petroacoustic Signature of Burrow-Related Carbonate Reservoirs: Hanifa Formation, Central Saudi Arabia"
+  url: "https://doi.org/10.1007/s11053-022-10097-w"
+  date: 2022-07-04
+
+- title: "Spatial patterns variations of a burrowed carbonate stratum, Upper Jurassic Hanifa Formation, central Saudi Arabia"
+  url: "https://doi.org/10.1016/j.sedgeo.2022.106146"
+  date: 2022-06-15
+
+- title: "The negative impact of Ophiomorpha on reservoir quality of channelized deposits: Dam Formation, Saudi Arabia"
+  url: "https://doi.org/10.1016/j.marpetgeo.2022.105666"
+  date: 2022-01-01
+
+- title: "Fish fossil remains from the Khartam Member, Khuff Formation, Central Saudi Arabia"
+  url: "https://doi.org/10.5194/egusphere-egu22-9154"
+  date: 2022-05-23
+
+- title: "Quantitative variability of burrow percentage estimated from 2D views"
+  url: "https://doi.org/10.2110/palo.2021.012"
+  date: 2022-02-22
+
+- title: "Geochemical characterization of subsurface upper Ordovician glaciogenic deposits"
+  url: "https://doi.org/10.1007/s13369-021-06066-9"
+  date: 2022-06-01
+
+- title: "Two-dimensional quantification of bioturbation intensity through computer modeling and statistics"
+  url: "https://doi.org/10.1007/s00531-021-02102-z"
+  date: 2022-01-06
+
+- title: "Effects of lithofacies on pore system evolution of storm-wave silt-rich sediments: Qusaiba Member, NW Saudi Arabia"
+  url: "https://doi.org/10.1016/j.marpetgeo.2021.105048"
+  date: 2021-11-01
+
+- title: "Effect of magnetic field strength and internal gradient on NMR-Derived petrophysical properties of sandstones"
+  url: "https://doi.org/10.1016/j.petrol.2021.108811"
+  date: 2021-04-01
+
+- title: "Permeability of burrow-related gas reservoirs through integrated laboratory techniques"
+  url: "https://doi.org/10.1016/j.jngse.2021.103917"
+  date: 2021-06-01
+
+- title: "Potential overlooked bioturbated reservoir zones: Hanifa Formation, central Saudi Arabia"
+  url: "https://doi.org/10.1016/j.marpetgeo.2020.104798"
+  date: 2021-01-01
+
+- title: "Superpermeability flow zone by bioturbation in Jubaila Formation, central Saudi Arabia"
+  url: "https://doi.org/10.1016/j.marpetgeo.2020.104512"
+  date: 2020-10-01
+
+- title: "Effect of Clay Content on the Spin–Spin NMR Relaxation Time Measured in Porous Media"
+  url: "https://doi.org/10.1021/acsomega.9b04228"
+  date: 2020-03-17
+
+- title: "Pore Characteristics of a Saudi Arabian Tight Gas Sand Reservoir"
+  url: "https://doi.org/10.3390/en12224302"
+  date: 2019-11-12
+
+- title: "Factors Controlling Reservoir Quality of a Paleozoic Tight Sandstone, Rub' al Khali Basin, Saudi Arabia"
+  url: "https://doi.org/10.1007/s13369-019-03885-9"
+  date: 2019-05-08
+
+- title: "Characteristics of Paleozoic tight gas sandstone reservoir, Rub' al Khali Basin, Saudi Arabia"
+  url: "https://doi.org/10.1007/s12517-019-4467-0"
+  date: 2019-05-25
+
+- title: "Sedimentological Controls on Reservoir Properties of a Paleozoic Tight Sandstone Reservoir, Saudi Arabia"
+  url: "https://doi.org/10.3997/2214-4609.201900217"
+  date: 2018-12-01

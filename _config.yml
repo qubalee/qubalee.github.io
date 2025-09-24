@@ -222,7 +222,7 @@ jekyll-archives:
     category: category
     tag: tag
     open-geo: open-geo
-    highlights: /highlights
+    publications: /publications
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
