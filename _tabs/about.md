@@ -24,7 +24,9 @@ ___
 {: .prompt-info }
 
 
-Intended for knowledge sharing, any opinions expressed are solely my own. If you would like to know more about my research activities, please read my [Archives](/archives/) or check out my other webpages:
+Intended for knowledge sharing, the opinions expressed here are solely my own.  
+If you would like to learn more about my research activities, please see my [publications](/publications), explore my [notes archive](/archives/), or visit my other webpages:
+
 
 [![CPG](https://raw.githubusercontent.com/qubalee/qubalee/refs/heads/main/images/icons/college-c.png "CPG")](https://cpg.kfupm.edu.sa/bio/qubalee/) 
 [![KFUPM](https://raw.githubusercontent.com/qubalee/qubalee/refs/heads/main/images/icons/university-c.png "KFUPM")](https://pure.kfupm.edu.sa/en/persons/abdullah-alqubalee) 
