@@ -1,0 +1,35 @@
+# =====================================================================
+# Local self-hosted asset map for Chirpy
+# =====================================================================
+type: self_host
+
+self_host:
+  webfonts: /assets/css/webfonts.css
+
+  fontawesome:
+    css: /assets/fontawesome-free/css/all.min.css
+
+  bootstrap:
+    css: /assets/css/bootstrap.min.css
+    js: /assets/js/bootstrap.bundle.min.js
+
+  glightbox:
+    css: /assets/glightbox/css/glightbox.min.css
+
+  toc:
+    css: /assets/tocbot/tocbot.css
+
+  mermaid:
+    js: /assets/mermaid/mermaid.min.js
+
+  mathjax:
+    js: /assets/mathjax/tex-mml-chtml.js
+
+  simple-jekyll-search:
+    js: /assets/simple-jekyll-search/simple-jekyll-search.min.js
+
+  clipboard:
+    js: /assets/clipboard/clipboard.min.js
+
+  dayjs:
+    js: /assets/dayjs/dayjs
