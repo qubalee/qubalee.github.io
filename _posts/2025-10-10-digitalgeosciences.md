@@ -16,7 +16,7 @@ The Earth’s systems are dynamic and interconnected, yet our understanding of t
 
 ## Why We Need Digital Geosciences
 
-A digital transformation in geoscience is essential. Traditional methods—often manual, localized, and discipline-specific—cannot keep up with the scale and complexity of today’s geological data. To advance research and improve reproducibility, we need frameworks that integrate AI, automation, and data-driven methods. We also need platforms that promote open data sharing, interactive visualizations, and collaboration, all while remaining inclusive, transparent, and globally accessible.
+A digital transformation in geoscience is essential. Traditional methods—often manual, localized, and discipline-specific—cannot keep up with the scale and complexity of today’s geological data. To advance research and improve reproducibility, we need frameworks that integrate AI, automation, and data-driven methods. We also need platforms that promote open data sharing, interactive visualizations, and collaboration [^1] [^2], all while remaining inclusive, transparent, and globally accessible.
 
 ## Core Objectives of the Platform
 
@@ -43,3 +43,14 @@ This is just the beginning. The platform envisions a future for geoscience that 
 ---
 
 🌍 [**Explore the Digital Geosciences Platform**](https://digitalgeosciences.com)
+
+## Cite this post
+If you found this post helpful, please consider citing it: 
+>Alqubalee, A. (2025, October 10). Digital Geosciences — Transforming Geological Data into Knowledge. ALQUBALEE Notes. https://qubalee.github.io/posts/2025/10/digitalgeosciences/
+{: .prompt-info } 
+
+# Refereces
+
+
+[^1]: Alqubalee, A. (2025, April 8). WIIP: An Approach for Leveraging Geological Data Heterogeneity through Customization of Open-Source Software. [https://qubalee.github.io/posts/2025/04/wiip/](https://qubalee.github.io/posts/2025/04/wiip/)
+[^2]: Alqubalee, A. (2025, May 27). Management of Geological Data: Local and Cloud-Based. [https://qubalee.github.io/posts/2025/05/data-repository-platforms/](https://qubalee.github.io/posts/2025/05/data-repository-platforms/)
