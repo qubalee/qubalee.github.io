@@ -3,7 +3,7 @@ title: 'Digital Geosciences — Transforming Geological Data into Knowledge'
 date: 2025-10-10
 permalink: /posts/2025/10/digitalgeosciences/
 categories: [Digital Geosciences, Artificial Intelligence, AI, Data, Research Management, Research Data]
-tags: [Digital, Geosciences, Data, Education, Research, Platforms, Consultations]
+tags: [Digital, Geosciences, Data, Education, Research, Platforms, Consultation]
 image:
   path: /assets/images_posts/digitalgeosciences.com.png
   alt: A screenshot from the landing page of digitalgeosciences.com.
