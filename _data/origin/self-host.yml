@@ -7,29 +7,34 @@ self_host:
   webfonts: /assets/css/webfonts.css
 
   fontawesome:
-    css: /assets/fontawesome-free/css/all.min.css
+    css: /assets/lib/fontawesome-free/css/all.min.css
 
   bootstrap:
-    css: /assets/css/bootstrap.min.css
-    js: /assets/js/bootstrap.bundle.min.js
+    css: /assets/lib/bootstrap/css/bootstrap.min.css
+    js: /assets/lib/bootstrap/js/bootstrap.bundle.min.js
 
   glightbox:
-    css: /assets/glightbox/css/glightbox.min.css
+    css: /assets/lib/glightbox/css/glightbox.min.css
 
   toc:
-    css: /assets/tocbot/tocbot.css
+    css: /assets/lib/tocbot/tocbot.css
 
   mermaid:
-    js: /assets/mermaid/mermaid.min.js
+    js: /assets/lib/mermaid/mermaid.min.js
 
   mathjax:
-    js: /assets/mathjax/tex-mml-chtml.js
+    js: /assets/lib/mathjax/tex-mml-chtml.js
 
   simple-jekyll-search:
-    js: /assets/simple-jekyll-search/simple-jekyll-search.min.js
+    js: /assets/lib/simple-jekyll-search/simple-jekyll-search.min.js
 
   clipboard:
-    js: /assets/clipboard/clipboard.min.js
+    js: /assets/lib/clipboard/clipboard.min.js
 
   dayjs:
-    js: /assets/dayjs/dayjs
+    js: /assets/lib/dayjs/dayjs.min.js
+    plugin:
+      localizedFormat: /assets/lib/dayjs/plugin/localizedFormat.js
+      relativeTime: /assets/lib/dayjs/plugin/relativeTime.js
+    locale:
+      en: /assets/lib/dayjs/locale/en.js
