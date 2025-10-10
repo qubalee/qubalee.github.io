@@ -4,7 +4,7 @@ date: 2025-04-05
 permalink: /posts/2025/04/hello-world/
 categories: [General, Announcements]
 tags: [Welcome, Hello, ALQUBALEE Notes]
-pin: true
+pin: false
 image:
   path: /assets/images_posts/welcome.png
 ---
