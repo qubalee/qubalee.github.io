@@ -28,5 +28,5 @@ I invite you to join me on this journey as we delve into the fascinating world o
 
 ----
 
-> Please be aware that the opinions expressed here are exclusively my own and are intended to facilitate knowledge sharing.
-{: .prompt-info }
+> Please be aware that the opinions expressed here are exclusively those of the author and are intended to facilitate knowledge sharing.
+{: .prompt-tip }

@@ -37,5 +37,5 @@ If you would like to learn more about my research activities, please see my [pub
 [![Web of Science](https://github.com/qubalee/qubalee/blob/main/images/wos.png?raw=true "Web of Science")](https://www.webofscience.com/wos/author/record/AAV-6030-2020) 
 
 
-> <small>This website was built by [Digital Geosciences](https://digitalgeosciences.com/) by modifying the [Chirpy theme](https://github.com/cotes2020/jekyll-theme-chirpy) for [Jekyll](https://jekyllrb.com/), and hosted on [GitHub Pages](https://pages.github.com/)</small>
+> <small>This website was built by [Digital Geosciences](https://digitalgeosciences.com/) on the [Chirpy theme](https://github.com/cotes2020/jekyll-theme-chirpy) for [Jekyll](https://jekyllrb.com/) and is hosted on [GitHub Pages](https://pages.github.com/)</small>
 
