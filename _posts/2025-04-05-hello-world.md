@@ -26,5 +26,7 @@ I invite you to join me on this journey as we delve into the fascinating world o
 - **Tutorials & Documentation**: Comprehensive guides designed to help you navigate complex geological concepts and methodologies.
 - **Announcements**: Updates on my research activities and information about upcoming events.
 
+----
 
-Thank you for visiting!
+> Please be aware that the opinions expressed here are exclusively my own and are intended to facilitate knowledge sharing.
+{: .prompt-info }
