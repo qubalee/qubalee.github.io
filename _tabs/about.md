@@ -39,3 +39,8 @@ If you would like to learn more about my research activities, please see my [pub
 
 > <small>This website was built by [Digital Geosciences](https://digitalgeosciences.com/) on the [Chirpy theme](https://github.com/cotes2020/jekyll-theme-chirpy) for [Jekyll](https://jekyllrb.com/) and is hosted on [GitHub Pages](https://pages.github.com/)</small>
 
+
+---
+
+> The opinions expressed here are exclusively those of the author and are intended to facilitate knowledge sharing.
+{: .prompt-tip }
