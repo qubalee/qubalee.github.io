@@ -57,7 +57,7 @@ If you found this post helpful, please consider citing it:
 >Alqubalee, A. (2025, May 27). Management of Geological Data: Local and Cloud-Based. ALQUBALEE Notes. https://qubalee.github.io/posts/2025/05/data-repository-platforms/
 {: .prompt-info } 
 
-# Refereces
+# References
 
 
 [^1]: Alqubalee, A. (2025, April 8). WIIP: An Approach for Leveraging Geological Data Heterogeneity through Customization of Open-Source Software. [https://qubalee.github.io/posts/2025/04/wiip/](https://qubalee.github.io/posts/2025/04/wiip/)
