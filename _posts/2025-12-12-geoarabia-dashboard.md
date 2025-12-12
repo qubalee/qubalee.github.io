@@ -19,9 +19,9 @@ The GeoArabia Dashboard provides a transparent, data-driven view of research out
 * **Reach and Representation:** Institutional involvement and geographic distribution.
 * **Thematic Shifts:** Topic landscapes across decades.
 
-The platform’s core purpose is to leverage historical insights to strategically shape the future of regional geoscience. Numerical data is available for export. The dashboard aligns with the Web-based Interactive Integrated Platform (**WIIP**) approach for integrating heterogeneous geological data into interactive web tools [^2] . The IDB (Interactive Dashboard) created by Digitalgeosciencs serves as the visualization layer, providing robust program-level, institutional, and author-centric analytics.
+The platform’s core purpose is to leverage historical insights to strategically shape the future of regional geoscience. Numerical data is available for export. The dashboard aligns with the Web-based Interactive Integrated Platform (**WIIP**) approach for integrating heterogeneous geological data into interactive web tools [^2] . The IDB (Interactive Dashboard) created by [Digital Geosciencs](https://digitalgeosciences.com/) serves as the visualization tool, providing robust program-level, institutional, and author-centric analytics.
 
-However, users should be aware of current data limitations, including:
+**However**, users should be aware of current data limitations, including:
 
 * **Last Name Disambiguation:** Variations in name spellings across sources, as well as authors publishing under multiple name variants, may affect count accuracy.
 * **Co-author Graphs:** These reflect cached OpenAlex snapshots [^1] and may not include the most recent updates.
