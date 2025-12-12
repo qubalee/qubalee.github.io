@@ -9,3 +9,22 @@
 
 /* append your custom style below */
 
+/* Stop TOC from covering the sidebar content */
+.toc-border-cover,
+#toc-wrapper::after {
+  display: none !important;  /* remove the sticky overlays */
+}
+
+#toc-wrapper {
+  margin-bottom: 1.5rem;
+}
+
+/* If overlap persists, unstick the TOC on wide screens */
+@media (min-width: 1200px) {
+  #toc-wrapper {
+    position: static !important;
+    top: auto !important;
+    max-height: none !important;
+    overflow: visible !important;
+  }
+}
