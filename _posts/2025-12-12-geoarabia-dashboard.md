@@ -27,9 +27,7 @@ The platform’s core purpose is to leverage historical insights to strategicall
 * **Co-author Graphs:** These reflect cached OpenAlex snapshots [^1] and may not include the most recent updates.
 * **Topic Counts:** These represent the number of unique topics assigned to works, not the number of works themselves. 
 
-## Future Enhancements
-
-Planned improvements include:
+The plan to improve the GeoArabia Dashboard in the future includes, but is not limited to,:
 
 * **Performance:** Persisting derived data in a lightweight offline database (e.g., SQLite) to accelerate large data refreshes.
 * **Quality Signals:** Incorporating journal and venue quality indicators to enable filtering or summarization by ranking tier.
