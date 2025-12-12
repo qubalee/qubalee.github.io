@@ -9,7 +9,7 @@ image:
   alt: A screenshot from the GeoArabia Dashboard page.
 ---
 
-Understanding the landscape of geoscientific research in Arabia has long been hindered by fragmented data sources and limited access to comprehensive analytics. Previously, publications, authors, institutions, and thematic trends were scattered, making it difficult to derive strategic insights into Geosciences research impact in Arabia. The GeoArabia Dashboard ( [GeoArabia.com/idb](https://geoarabia.com/idb) ) addresses this long-standing challenge of fragmented data access by enabling comprehensive analysis of Geoscientific research output in the region.
+Understanding the landscape of geoscientific research in Arabia has long been hindered by fragmented data sources and limited access to comprehensive analytics. Previously, publications, authors, institutions, and thematic trends were scattered, making it difficult to derive strategic insights into the impact of Geosciences research in Arabia. The GeoArabia Dashboard ( [GeoArabia.com/idb](https://geoarabia.com/idb) ) addresses the long-standing challenge of fragmented data access by enabling comprehensive analysis of Geoscientific research output in the region.
 
 The GeoArabia Dashboard provides a transparent, data-driven view of research outcomes extracted from OpenAlex [^1] , clarifying:
 
@@ -19,7 +19,7 @@ The GeoArabia Dashboard provides a transparent, data-driven view of research out
 * **Reach and Representation:** Institutional involvement and geographic distribution.
 * **Thematic Shifts:** Topic landscapes across decades.
 
-The dashboard’s core purpose is to leverage historical insights to strategically shape the future of regional geoscience. It aligns with the Web-based Interactive Integrated Platform (**WIIP**) approach for integrating heterogeneous geological data into interactive web tools [^2] . It uses the IDB (Interactive Dashboard) created by [Digital Geosciencs](https://digitalgeosciences.com/), which serves as the visualization tool, providing robust program-level, institutional, and author-centric analytics.
+The dashboard’s core purpose is to leverage historical insights to strategically shape the future of regional geoscience. It aligns with the Web-based Interactive Integrated Platform (**WIIP**) approach for integrating heterogeneous geological data into interactive web tools [^2] . It uses the IDB (Interactive Dashboard) created by [Digital Geosciences](https://digitalgeosciences.com/) as the visualization tool, providing robust program-level, institutional, and author-centric analytics.
 
 **However**, users should be aware of current data limitations, including:
 
