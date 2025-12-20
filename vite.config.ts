@@ -5,7 +5,7 @@ import path from "path";
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
   // Use root for local dev, repo subpath for production/GitHub Pages
-  base: mode === "development" ? "/" : "/note/",
+  base: mode === "development" ? "/" : "/",
   server: {
     host: "::",
     port: 8083,
