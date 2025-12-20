@@ -123,10 +123,10 @@ const Blog = () => {
               <div className="absolute -right-16 bottom-0 h-32 w-32 rounded-full bg-primary/10 blur-3xl" />
               <div className="relative px-6 py-8 md:px-10 md:py-12 flex flex-col gap-6 md:flex-row md:items-center md:justify-between">
                 <div className="space-y-3 max-w-2xl">
-                  <div className="inline-flex items-center gap-2 rounded-full bg-primary/15 text-primary px-3 py-1 text-xs font-semibold uppercase tracking-wide">
-                    Notes
+                  <div className="inline-flex items-center gap-2 rounded-full bg-primary/15 px-3 py-1 text-xs font-semibold tracking-wide">
+                    2026
                     <span className="w-1.5 h-1.5 rounded-full bg-primary/70" />
-                    Updates
+                    v2.0.0
                   </div>
                   <h2 className="text-3xl md:text-4xl font-bold text-foreground leading-tight">
                     {headingText} from {name || "the lab"}
