@@ -25,7 +25,7 @@ const Publications = () => {
   const hasData = data.length > 0;
   const { sections } = useSectionsConfig();
   const publicationsSection = sections.find((section) => section.id === "publications");
-  const heading = publicationsSection?.label || "Selected Publications";
+  const heading = publicationsSection?.label || "Publications";
   const subtitle = publicationsSection?.subtitle;
 
   return (

@@ -283,7 +283,7 @@ const Blog = () => {
                     <Link
                       key={post.id}
                       to={post.permalink || `/blog/${post.id}`}
-                      className="flex gap-4 p-4 rounded-lg border border-border bg-card hover:bg-accent/50 transition-all duration-200 group"
+                      className="flex gap-4 p-4 rounded-xl border border-border/70 bg-gradient-to-br from-slate-50 via-white to-slate-100 dark:from-slate-900 dark:via-slate-950 dark:to-slate-900 shadow-sm hover:shadow-md hover:-translate-y-0.5 transition-all duration-200 group"
                     >
                       {/* Small Thumbnail */}
                       {post.image && (
@@ -337,15 +337,17 @@ const Blog = () => {
                   <Link
                     key={post.id}
                     to={post.permalink || `/blog/${post.id}`}
-                    className="flex flex-col min-h-[420px] h-full rounded-xl border border-border bg-card shadow-sm hover:shadow-lg hover:border-primary/20 hover:-translate-y-1 transition-all duration-300 group"
+                    className="flex flex-col min-h-[420px] h-full rounded-2xl border border-border/70 bg-gradient-to-b from-slate-50 via-white to-slate-100 dark:from-slate-900 dark:via-slate-950 dark:to-slate-900 shadow-[0_16px_38px_-22px_rgba(15,23,42,0.55)] hover:shadow-[0_22px_52px_-26px_rgba(15,23,42,0.6)] hover:border-primary/20 hover:-translate-y-1 transition-all duration-300 group"
                   >
                     {post.image && (
-                      <div className="w-full mb-5 rounded-t-xl overflow-hidden bg-muted aspect-[4/3]">
-                        <img
-                          src={post.image}
-                          alt={post.title}
-                          className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
-                        />
+                      <div className="w-full px-4 pt-4 mb-2">
+                        <div className="rounded-xl overflow-hidden bg-gradient-to-br from-slate-100 via-white to-slate-50 dark:from-slate-800 dark:via-slate-900 dark:to-slate-950 border border-border/60 dark:border-border/40 aspect-[4/3]">
+                          <img
+                            src={post.image}
+                            alt={post.title}
+                            className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
+                          />
+                        </div>
                       </div>
                     )}
                     <div className="flex-1 flex flex-col min-w-0 px-5 pb-5">
