@@ -11,7 +11,7 @@ const POSTS_DIR = path.join(ROOT, "public", "data", "posts");
 const SITE_INFO = path.join(ROOT, "public", "data", "site-info.csv");
 const OUTPUT = path.join(ROOT, "public", "feed.xml");
 
-const SITE_URL = process.env.SITE_URL || "https://example.com";
+const SITE_URL = process.env.SITE_URL || "https://qubalee.com";
 
 const readText = (file) => fs.readFileSync(file, "utf8");
 
