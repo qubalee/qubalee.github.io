@@ -298,7 +298,10 @@ const Blog = () => {
 
                       {/* Content */}
                       <div className="flex-1 min-w-0">
-                        <h3 className="text-lg font-semibold text-foreground group-hover:text-primary transition-colors mb-1 line-clamp-2">
+                        <h3
+                          className="text-lg font-semibold text-foreground group-hover:text-primary transition-colors mb-1 line-clamp-2"
+                          title={post.title}
+                        >
                           {post.title}
                         </h3>
 
@@ -351,7 +354,10 @@ const Blog = () => {
                       </div>
                     )}
                     <div className="flex-1 flex flex-col min-w-0 px-5 pb-5">
-                      <h3 className="text-xl font-semibold text-foreground group-hover:text-primary transition-colors mb-3 line-clamp-2 leading-snug">
+                      <h3
+                        className="text-xl font-semibold text-foreground group-hover:text-primary transition-colors mb-3 line-clamp-2 leading-snug"
+                        title={post.title}
+                      >
                         {post.title}
                       </h3>
                       <div className="mb-4 flex flex-wrap items-center gap-2.5 text-sm text-muted-foreground">
