@@ -510,10 +510,10 @@ const PublicationsArchive = () => {
                   const hasLink = Boolean(link && link !== "#");
                   const citationLabel =
                     typeof pub.citations === "number"
-                      ? `${pub.citations.toLocaleString()} citation${pub.citations === 1 ? "" : "s"}`
+                      ? pub.citations.toLocaleString()
                       : citationsLoading
-                        ? "Loading citations..."
-                        : "Citations unavailable";
+                        ? "Loading..."
+                        : "—";
 
                   const card = (
                     <Card
@@ -535,12 +535,16 @@ const PublicationsArchive = () => {
                         </div>
                       </CardHeader>
                       <CardContent>
-                        <p className="text-sm text-muted-foreground mb-2">
-                          {pub.venue} | {pub.year}
-                        </p>
-                        <p className="text-sm text-muted-foreground flex items-start gap-2">
-                          <FileText className="mt-0.5 h-4 w-4 text-muted-foreground shrink-0" aria-hidden="true" />
-                          <span className="flex-1">{citationLabel}</span>
+                        <p className="text-sm text-muted-foreground flex items-center gap-2">
+                          <span className="flex-1">
+                            {pub.venue}
+                            <span className="mx-1.5 text-2xl leading-none align-middle">·</span>
+                            {pub.year}
+                          </span>
+                          <span className="inline-flex items-center gap-1 whitespace-nowrap">
+                            <FileText className="h-4 w-4 text-muted-foreground" aria-hidden="true" />
+                            {citationLabel}
+                          </span>
                         </p>
                       </CardContent>
                     </Card>
