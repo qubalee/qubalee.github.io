@@ -1,4 +1,4 @@
-# ALQUBALEE Notes
+# ALQUBALEE Notes v2
 
 ## About
 
@@ -22,16 +22,6 @@ If you have any questions, feedback, or if you're interested in collaboration, p
 
 **Email**: [abdullah@qubalee.com](mailto:abdullah@qubalee.com)
 
-
-## Local development
-
-Requirements: Ruby (with Bundler) and Jekyll.
-
-1. Install gems: `bundle install`
-2. Serve locally with live reload: `bundle exec jekyll serve`
-3. Open the site: http://localhost:4000
-
-To rebuild only, run `bundle exec jekyll build` (output goes to `_site/`).
 
 ## License
 
