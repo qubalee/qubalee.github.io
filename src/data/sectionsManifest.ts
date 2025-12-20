@@ -35,7 +35,7 @@ export const sectionsManifest: SectionDefinition[] = [
   {
     id: "publications",
     component: Publications,
-    defaultLabel: "Selected Publications",
+    defaultLabel: "Publications",
     defaultOrder: 30,
   },
   {
