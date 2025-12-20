@@ -101,7 +101,7 @@ const Blog = () => {
     <section
       id="blog"
       className={
-        isArchive ? "pt-10 pb-14 bg-background" : "py-8 pb-12 bg-background"
+        isArchive ? "pt-10 pb-14 bg-background" : "py-10 md:py-14 bg-background"
       }
     >
       <div className="container mx-auto px-4">
@@ -121,7 +121,7 @@ const Blog = () => {
             <div className="relative overflow-hidden rounded-2xl border border-border/60 bg-gradient-to-br from-primary/10 via-background to-background shadow-sm">
               <div className="absolute -left-10 -top-10 h-32 w-32 rounded-full bg-primary/15 blur-3xl" />
               <div className="absolute -right-16 bottom-0 h-32 w-32 rounded-full bg-primary/10 blur-3xl" />
-              <div className="relative px-6 py-8 md:px-10 md:py-12 flex flex-col gap-6 md:flex-row md:items-center md:justify-between">
+              <div className="relative px-6 pt-6 pb-10 md:px-10 md:pt-10 md:pb-12 flex flex-col gap-6 md:flex-row md:items-center md:justify-between">
                 <div className="space-y-3 max-w-2xl">
                   <div className="inline-flex items-center gap-2 rounded-full bg-primary/15 px-3 py-1 text-xs font-semibold tracking-wide">
                     2026
