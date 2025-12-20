@@ -114,7 +114,7 @@ const About = () => {
                 <h3 className="text-xl font-semibold mb-3 text-foreground">
                   Get in Touch
                 </h3>
-                <div className="flex flex-wrap items-center gap-3">
+                <div className="flex items-center gap-4 flex-nowrap overflow-x-auto pb-1">
                   {socialEntries.map((entry, index) => {
                     const Icon = getSocialIcon(entry.iconKey, entry.label);
                     const href = entry.link;
@@ -125,11 +125,14 @@ const About = () => {
                         href={href}
                         target={entry.label === "Email" ? "_self" : "_blank"}
                         rel={entry.label === "Email" ? undefined : "noreferrer"}
-                        className="inline-flex h-9 w-9 items-center justify-center rounded-full border border-border text-muted-foreground hover:text-primary hover:border-primary transition-colors"
+                        className="group flex flex-col items-center gap-1 text-xs text-muted-foreground hover:text-primary transition-colors"
                         aria-label={entry.label}
                         title={entry.label}
                       >
-                        <Icon className="w-4 h-4" />
+                        <span className="inline-flex h-10 w-10 items-center justify-center rounded-full border border-border text-muted-foreground group-hover:text-primary group-hover:border-primary transition-colors">
+                          <Icon className="w-4 h-4" />
+                        </span>
+                        <span className="font-medium leading-none">{entry.label}</span>
                       </a>
                     );
                   })}
