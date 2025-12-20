@@ -139,9 +139,9 @@ const ResearchArchive = () => {
         type="website"
       />
       <Navigation />
-      <main className="pt-24 pb-20">
-        <section className="py-20">
-          <div className="container mx-auto px-4">
+      <main className="container mx-auto px-4 py-20">
+        <section className="py-0">
+          <div className="mx-auto">
             <div className="text-center mb-12">
               <h1 className="text-4xl md:text-5xl font-bold mb-3 text-foreground">
                 Research Archive
@@ -215,8 +215,8 @@ const ResearchArchive = () => {
                           >
 
                             <TableCell className="font-medium" title={area.title}>
-                              <div className="flex items-start gap-2">
-                                <area.Icon className="w-4 h-4 text-primary/80 stroke-[1.5] mt-1" aria-hidden="true" />
+                              <div className="flex items-center gap-2">
+                                <area.Icon className="w-4 h-4 text-primary/80 stroke-[1.5]" aria-hidden="true" />
                                 {area.link ? (
                                   <a
                                     href={area.link}

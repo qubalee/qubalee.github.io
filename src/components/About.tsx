@@ -83,7 +83,7 @@ const About = () => {
   };
 
   return (
-    <section id="about" className="py-20 bg-background">
+    <section id="about" className="pt-6 pb-8 md:pt-12 md:pb-16 bg-background">
       <div className="container mx-auto px-4">
         <div className="grid md:grid-cols-2 gap-10 items-start max-w-6xl mx-auto">
           <div className="order-2 md:order-1">
@@ -114,7 +114,7 @@ const About = () => {
                 <h3 className="text-xl font-semibold mb-3 text-foreground">
                   Get in Touch
                 </h3>
-                <div className="flex items-center gap-4 flex-nowrap overflow-x-auto pb-1">
+                <div className="flex items-center gap-4 md:gap-5 flex-wrap">
                   {socialEntries.map((entry, index) => {
                     const Icon = getSocialIcon(entry.iconKey, entry.label);
                     const href = entry.link;
@@ -144,7 +144,7 @@ const About = () => {
             <img
               src={photo || profilePlaceholder}
               alt="Profile"
-              className="rounded-lg shadow-lg w-full max-w-md mx-auto"
+              className="rounded-lg shadow-xl md:shadow-2xl ring-1 ring-border/40 w-full max-w-md mx-auto"
             />
           </div>
         </div>
