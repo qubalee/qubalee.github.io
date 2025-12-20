@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>ALQUBALEE Notes</title>
+    <meta name="description" content="Notes and research highlights in digital geosciences, sedimentology, reservoir quality, and critical minerals." />
+    <meta name="author" content="ALQUBALEE Notes" />
+
+    <meta property="og:title" content="ALQUBALEE Notes" />
+    <meta property="og:description" content="Latest notes and publications in digital geosciences, sedimentology, reservoir quality, and critical minerals." />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="og-image.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="%BASE_URL%assets/favicons/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="%BASE_URL%assets/favicons/favicon-16x16.png" />
+    <link rel="apple-touch-icon" sizes="180x180" href="%BASE_URL%assets/favicons/apple-touch-icon.png" />
+    <link rel="manifest" href="%BASE_URL%assets/favicons/qubalee.webmanifest" />
+    <script>
+      (function () {
+        const titleElement = document.querySelector("title");
+        const ogTitleMeta = document.querySelector('meta[property="og:title"]');
+        const authorMeta = document.querySelector('meta[name="author"]');
+        const descriptionMeta = document.querySelector('meta[name="description"]');
+        const ogDescriptionMeta = document.querySelector('meta[property="og:description"]');
+
+
+        const updateText = (element, text) => {
+          if (element) {
+            if (element.tagName === "META") {
+              element.setAttribute("content", text);
+            } else {
+              element.textContent = text;
+            }
+          }
+        };
+
+        const baseUrl = "%BASE_URL%";
+        fetch(baseUrl + "data/site-info.csv")
+          .then((res) => res.text())
+          .then((raw) => {
+            const lines = raw
+              .split(/\r?\n/)
+              .map((line) => line.trim())
+              .filter(Boolean);
+            if (lines.length < 2) {
+              return;
+            }
+            const headers = lines[0].split(",").map((header) => header.trim());
+            const values = lines[1].split(",").map((value) =>
+              value.replace(/^"(.*)"$/, "$1").trim()
+            );
+            const mapping = headers.reduce((acc, header, index) => {
+              acc[header] = values[index] ?? "";
+              return acc;
+            }, {});
+
+            const name = mapping.name || "ALQUBALEE Notes";
+            const role = mapping.role || "";
+            const tagline = mapping.tagline || "";
+            const titleText = name;
+            const descriptionText = tagline || `Notes and research highlights in digital geosciences and sedimentology.`;
+
+            updateText(titleElement, titleText);
+            updateText(ogTitleMeta, titleText);
+            updateText(authorMeta, name);
+            updateText(descriptionMeta, descriptionText);
+            updateText(ogDescriptionMeta, descriptionText);
+          })
+          .catch(() => {});
+      })();
+    </script>
+  </head>
+
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

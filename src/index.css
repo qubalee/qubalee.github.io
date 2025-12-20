@@ -1,0 +1,264 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Definition of the design system. All colors, gradients, fonts, etc should be defined here. 
+All colors MUST be HSL.
+*/
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 215 25% 27%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 215 25% 27%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 215 25% 27%;
+
+    --primary: 217 91% 20%;
+    --primary-foreground: 0 0% 100%;
+
+    --secondary: 214 32% 91%;
+    --secondary-foreground: 217 91% 20%;
+
+    --muted: 210 40% 96%;
+    --muted-foreground: 215 16% 47%;
+
+    --accent: 25 95% 53%;
+    --accent-foreground: 0 0% 100%;
+
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 214 32% 88%;
+    --input: 214 32% 88%;
+    --ring: 217 91% 20%;
+
+    --radius: 0.75rem;
+    
+    /* Academic theme colors */
+    --navy: 217 91% 20%;
+    --slate: 215 25% 27%;
+    --light-gray: 210 40% 96%;
+    --warm-accent: 25 95% 53%;
+    
+    /* Gradients */
+    --gradient-hero: linear-gradient(135deg, hsl(217 91% 20%) 0%, hsl(215 25% 27%) 100%);
+    --gradient-subtle: linear-gradient(180deg, hsl(0 0% 100%) 0%, hsl(210 40% 98%) 100%);
+    
+    /* Shadows */
+    --shadow-sm: 0 2px 8px hsl(215 25% 27% / 0.08);
+    --shadow-md: 0 4px 16px hsl(215 25% 27% / 0.12);
+    --shadow-lg: 0 8px 24px hsl(215 25% 27% / 0.16);
+    
+    /* Transitions */
+    --transition-smooth: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+
+    --sidebar-background: 0 0% 98%;
+
+    --sidebar-foreground: 240 5.3% 26.1%;
+
+    --sidebar-primary: 240 5.9% 10%;
+
+    --sidebar-primary-foreground: 0 0% 98%;
+
+    --sidebar-accent: 240 4.8% 95.9%;
+
+    --sidebar-accent-foreground: 240 5.9% 10%;
+
+    --sidebar-border: 220 13% 91%;
+
+    --sidebar-ring: 217.2 91.2% 59.8%;
+  }
+
+  .dark {
+    --background: 215 28% 17%;
+    --foreground: 210 40% 98%;
+
+    --card: 215 25% 20%;
+    --card-foreground: 210 40% 98%;
+
+    --popover: 215 25% 20%;
+    --popover-foreground: 210 40% 98%;
+
+    --primary: 217 91% 60%;
+    --primary-foreground: 0 0% 100%;
+
+    --secondary: 215 20% 25%;
+    --secondary-foreground: 210 40% 98%;
+
+    --muted: 215 20% 25%;
+    --muted-foreground: 215 20% 65%;
+
+    --accent: 25 95% 53%;
+    --accent-foreground: 0 0% 100%;
+
+    --destructive: 0 63% 31%;
+    --destructive-foreground: 210 40% 98%;
+
+    --border: 215 20% 25%;
+    --input: 215 20% 25%;
+    --ring: 217 91% 60%;
+    
+    --shadow-sm: 0 2px 8px hsl(0 0% 0% / 0.2);
+    --shadow-md: 0 4px 16px hsl(0 0% 0% / 0.3);
+    --shadow-lg: 0 8px 24px hsl(0 0% 0% / 0.4);
+    --sidebar-background: 240 5.9% 10%;
+    --sidebar-foreground: 240 4.8% 95.9%;
+    --sidebar-primary: 224.3 76.3% 48%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 240 3.7% 15.9%;
+    --sidebar-accent-foreground: 240 4.8% 95.9%;
+    --sidebar-border: 240 3.7% 15.9%;
+    --sidebar-ring: 217.2 91.2% 59.8%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+  }
+  
+  html {
+    scroll-behavior: smooth;
+  }
+}
+
+@layer utilities {
+  .animate-fade-in {
+    animation: fadeIn 1s ease-in;
+  }
+  
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  .animate-orb-slow {
+    animation: orbFloat 28s ease-in-out infinite;
+  }
+
+  .animate-orb-medium {
+    animation: orbFloat 22s ease-in-out infinite;
+  }
+
+  .animate-orb-fast {
+    animation: orbFloat 18s ease-in-out infinite;
+  }
+
+  @keyframes orbFloat {
+    0% {
+      transform: translate3d(0, 0, 0) scale(1);
+    }
+    50% {
+      transform: translate3d(40px, -30px, 0) scale(1.08);
+    }
+    100% {
+      transform: translate3d(0, 0, 0) scale(1);
+    }
+  }
+}
+
+/* Markdown prose styles */
+.prose {
+  max-width: 65ch;
+}
+
+.prose-wide {
+  max-width: 100%;
+}
+
+.prose pre {
+  @apply rounded-lg p-4 overflow-x-auto;
+}
+
+.prose code {
+  @apply px-1.5 py-0.5 rounded text-sm;
+  background-color: hsl(var(--muted));
+}
+
+.prose pre code {
+  @apply p-0 bg-transparent;
+}
+
+.prose p {
+  @apply my-4 leading-relaxed;
+}
+
+.prose h1 {
+  @apply text-3xl font-bold mt-8 mb-4;
+}
+
+.prose h2 {
+  @apply text-2xl font-bold mt-6 mb-3 scroll-mt-24;
+}
+
+.prose h3 {
+  @apply text-xl font-semibold mt-5 mb-2 scroll-mt-24;
+}
+
+.prose mark {
+  @apply bg-accent/30 text-foreground px-1 rounded;
+}
+
+.prose ul {
+  @apply my-4 ml-6 list-disc;
+}
+
+.prose ol {
+  @apply my-4 ml-6 list-decimal;
+}
+
+.prose li {
+  @apply my-2;
+}
+
+.prose blockquote {
+  @apply border-l-4 border-primary pl-4 italic my-4;
+}
+
+.prose a {
+  @apply font-semibold text-primary;
+  text-decoration: none;
+}
+
+.prose img {
+  @apply rounded-lg my-6;
+}
+
+.prose .prompt-info {
+  @apply border-l-4 border-primary bg-muted/40 rounded-md px-4 py-3 my-6 text-sm;
+}
+
+@media print {
+  @page {
+    size: A4;
+    margin: 16mm 16mm 18mm 16mm; /* top right bottom left: extra bottom space */
+  }
+
+  /* Hide elements marked as no-print */
+  [data-no-print] {
+    display: none !important;
+  }
+
+  body {
+    counter-reset: page;
+  }
+
+  /* Page number */
+  body::after {
+    display: none;
+  }
+}
