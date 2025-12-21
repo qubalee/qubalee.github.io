@@ -93,8 +93,8 @@ const Blog = () => {
     ? sortedPosts.slice(0, visibleArchiveCount)
     : sortedPosts.slice(0, homeVisibleCount);
 
-  const { tagline, name } = useSiteInfo();
-  const headingText = isArchive ? blogLabel : "First GeoNotes";
+  const { tagline } = useSiteInfo();
+  const headingText = isArchive ? blogLabel : blogLabel || "Notes";
   const subtitleText = !isArchive && tagline ? tagline : blogSubtitle;
 
   return (
@@ -129,7 +129,7 @@ const Blog = () => {
                     v2.0.0
                   </div>
                   <h2 className="text-3xl md:text-4xl font-bold text-foreground leading-tight">
-                    {headingText} for {name || "the lab"}
+                    {headingText}
                   </h2>
                   {subtitleText && (
                     <p className="text-base md:text-lg text-muted-foreground">
