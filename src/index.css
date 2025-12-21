@@ -146,27 +146,52 @@ All colors MUST be HSL.
     }
   }
 
+  .animate-orb {
+    will-change: transform, opacity;
+  }
+
   .animate-orb-slow {
-    animation: orbFloat 28s ease-in-out infinite;
+    animation: orbFloat 12s ease-in-out infinite;
   }
 
   .animate-orb-medium {
-    animation: orbFloat 22s ease-in-out infinite;
+    animation: orbFloat 9s ease-in-out infinite;
   }
 
   .animate-orb-fast {
-    animation: orbFloat 18s ease-in-out infinite;
+    animation: orbFloat 7s ease-in-out infinite;
   }
 
   @keyframes orbFloat {
     0% {
-      transform: translate3d(0, 0, 0) scale(1);
+      transform: translate3d(-20px, -10px, 0) scale(1);
+      opacity: 0.4;
     }
     50% {
-      transform: translate3d(40px, -30px, 0) scale(1.08);
+      transform: translate3d(160px, -120px, 0) scale(1.2);
+      opacity: 0.7;
     }
     100% {
-      transform: translate3d(0, 0, 0) scale(1);
+      transform: translate3d(-20px, -10px, 0) scale(1);
+      opacity: 0.4;
+    }
+  }
+}
+
+@layer utilities {
+  .clouds-motion {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='400' height='240' viewBox='0 0 400 240'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cpath d='M40 200l32-64 48 64 52-84 46 60 40-46 42 50' stroke='%23ffffff' stroke-width='3' stroke-linecap='round' stroke-linejoin='round' stroke-opacity='0.55'/%3E%3Ccircle cx='120' cy='140' r='6' fill='%23ffffff' fill-opacity='0.55'/%3E%3Ccircle cx='220' cy='120' r='5' fill='%23ffffff' fill-opacity='0.55'/%3E%3Ccircle cx='320' cy='160' r='7' fill='%23ffffff' fill-opacity='0.55'/%3E%3Cpath d='M260 90c0 6-5 11-11 11s-11-5-11-11 5-11 11-11 11 5 11 11z' fill='%23ffffff' fill-opacity='0.45'/%3E%3C/g%3E%3C/svg%3E");
+    background-repeat: repeat-x;
+    background-size: 480px 260px;
+    animation: cloudDrift 36s linear infinite;
+  }
+
+  @keyframes cloudDrift {
+    0% {
+      background-position: 0 0;
+    }
+    100% {
+      background-position: 1000px 0;
     }
   }
 }
