@@ -342,7 +342,7 @@ const Blog = () => {
                   <Link
                     key={post.id}
                     to={post.permalink || `/blog/${post.id}`}
-                    className="flex flex-col min-h-[420px] h-full rounded-2xl border border-border/70 bg-gradient-to-b from-slate-50 via-white to-slate-100 dark:from-slate-900 dark:via-slate-950 dark:to-slate-900 shadow-[0_16px_38px_-22px_rgba(15,23,42,0.55)] hover:shadow-[0_22px_52px_-26px_rgba(15,23,42,0.6)] hover:border-primary/20 hover:-translate-y-1 transition-all duration-300 group"
+                    className="flex flex-col min-h-[420px] h-full rounded-2xl border border-border/70 dark:border-white/15 bg-gradient-to-b from-slate-50 via-white to-slate-100 dark:from-slate-900 dark:via-slate-950 dark:to-slate-900 shadow-[0_16px_38px_-22px_rgba(15,23,42,0.55)] dark:shadow-[0_16px_40px_-20px_rgba(255,255,255,0.14)] hover:shadow-[0_22px_52px_-26px_rgba(15,23,42,0.6)] dark:hover:shadow-[0_24px_56px_-22px_rgba(255,255,255,0.18)] hover:border-primary/20 dark:hover:border-white/30 hover:-translate-y-1 transition-all duration-300 group"
                   >
                     {post.image && (
                       <div className="w-full px-4 pt-4 mb-2">
