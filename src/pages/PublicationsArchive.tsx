@@ -291,7 +291,7 @@ const PublicationsArchive = () => {
         type="website"
       />
       <Navigation />
-      <main className="container mx-auto px-4 pt-12 md:pt-16 pb-16">
+      <main className="container mx-auto px-4 pt-6 md:pt-10 pb-14">
         <div className="text-center mb-10 max-w-3xl mx-auto">
           <h1 className="text-5xl font-bold text-foreground mb-2">Publications Archive</h1>
         </div>

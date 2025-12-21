@@ -6,7 +6,7 @@ const NotesArchive = () => {
   return (
     <div className="min-h-screen bg-background">
       <Navigation />
-      <main className="pt-6 md:pt-10">
+      <main className="pt-4 md:pt-6">
         <Blog />
       </main>
       <Footer />

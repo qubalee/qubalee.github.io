@@ -131,8 +131,8 @@ const BlogPost = () => {
         }}
       />
       <Navigation />
-      <main className="flex-1 pt-4">
-        <article className="container mx-auto px-4 sm:px-6 lg:px-8 py-6">
+      <main className="flex-1 pt-2 md:pt-4">
+        <article className="container mx-auto px-4 sm:px-6 lg:px-8 py-4">
           <div className="flex gap-8 max-w-7xl mx-auto">
             {/* Main Content */}
             <div className="flex-1 min-w-0 max-w-4xl">
