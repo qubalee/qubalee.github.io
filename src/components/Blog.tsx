@@ -125,7 +125,7 @@ const Blog = () => {
                 <div className="space-y-3 max-w-2xl">
                   <div className="inline-flex items-center gap-2 rounded-full bg-primary/15 px-3 py-1 text-xs font-semibold tracking-wide">
                     2026
-                    <span className="w-1.5 h-1.5 rounded-full bg-primary/70" />
+                    <span className="w-1.5 h-1.5 rounded-full bg-primary/70 dark:bg-accent" />
                     v2.0.0
                   </div>
                   <h2 className="text-3xl md:text-4xl font-bold text-foreground leading-tight">
