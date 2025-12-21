@@ -288,8 +288,6 @@ const BlogPost = () => {
           {headings.length > 0 && <BlogPostTOC headings={headings} />}
         </div>
 
-        {/* Post Footer */}
-        <footer className="mt-12 pt-8 border-t border-border" />
       </article>
     </main>
     <Footer />

@@ -22,7 +22,7 @@ const Footer = () => {
             href="https://digitalgeosciences.com/"
             target="_blank"
             rel="noreferrer"
-            className="font-medium text-foreground hover:text-primary underline underline-offset-4"
+            className="font-medium text-foreground hover:text-primary no-underline"
           >
             Digital Geosciences
           </a>

@@ -68,7 +68,7 @@ export const CitationBlock = ({ citationData }: CitationBlockProps) => {
   };
 
   return (
-    <div className="my-8 rounded-lg border border-border bg-card p-6">
+    <div className="mt-8 mb-6 rounded-lg border border-border bg-card p-6">
       <h3 className="text-lg font-semibold text-foreground mb-4">
         📚 Cite This Note
       </h3>

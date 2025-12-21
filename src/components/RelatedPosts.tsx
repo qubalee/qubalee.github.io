@@ -66,9 +66,9 @@ export const RelatedPosts = ({
   if (postsToShow.length === 0) return null;
 
   return (
-    <section className="mt-12 pt-8 border-t border-border">
+    <section className="mt-6 pt-4 pb-4">
       <h2 className="text-lg font-semibold text-foreground mb-4">
-        Related Posts
+        Further Reading
       </h2>
       <div className="grid gap-2 sm:grid-cols-2 lg:grid-cols-3">
         {postsToShow.map((post) => (
