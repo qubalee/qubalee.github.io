@@ -101,7 +101,7 @@ const Blog = () => {
     <section
       id="blog"
       className={
-        isArchive ? "pt-10 pb-14 bg-background" : "py-10 md:py-14 bg-background"
+        isArchive ? "pt-8 md:pt-12 pb-14 bg-background" : "py-6 md:py-10 bg-background"
       }
     >
       <div className="container mx-auto px-4">

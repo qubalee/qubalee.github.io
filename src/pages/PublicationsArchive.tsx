@@ -291,12 +291,9 @@ const PublicationsArchive = () => {
         type="website"
       />
       <Navigation />
-      <main className="container mx-auto px-4 py-20">
+      <main className="container mx-auto px-4 pt-12 md:pt-16 pb-16">
         <div className="text-center mb-10 max-w-3xl mx-auto">
-          <h1 className="text-4xl font-bold text-foreground mb-2">Publications Archive</h1>
-          <p className="text-lg text-muted-foreground">
-            Browse all peer-reviewed articles, and book chapters.
-          </p>
+          <h1 className="text-5xl font-bold text-foreground mb-2">Publications Archive</h1>
         </div>
 
         {!isLoading && !error && (
