@@ -194,6 +194,7 @@ const PublicationsArchive = () => {
     typeof window !== "undefined" ? window.location.href : "https://example.com/publications";
   const pageTitle = `${name ? `${name} | ` : ""}Publications`;
   const pageDescription = "Browse peer-reviewed articles, book chapters, and scholarly outputs.";
+  const lastUpdatedLabel = new Date().toLocaleDateString("en-GB");
 
   const toggleSort = (column: SortKey) => {
     setVisibleCount(15);
@@ -494,9 +495,6 @@ const PublicationsArchive = () => {
                   </TableBody>
                 </Table>
               </div>
-              <div className="mt-6 text-center text-sm text-muted-foreground">
-                Showing {visible.length} of {filtered.length} publication{filtered.length !== 1 ? "s" : ""}
-              </div>
             </div>
 
             {/* Mobile Card View */}
@@ -565,12 +563,16 @@ const PublicationsArchive = () => {
               ))}
             </div>
 
-            {visible.length < filtered.length && (
-              <div className="mt-6 flex items-center justify-center gap-3">
+            <div className="mt-6 w-full max-w-7xl mx-auto flex flex-col items-center gap-3 text-sm text-muted-foreground md:flex-row md:justify-between">
+              <span>
+                Showing {visible.length} of {filtered.length} publication{filtered.length !== 1 ? "s" : ""}
+              </span>
+              <div className="flex items-center gap-3">
                 <Button
                   variant="outline"
                   size="sm"
                   onClick={() => setVisibleCount((prev) => prev + 15)}
+                  disabled={visible.length >= filtered.length}
                 >
                   Load more
                 </Button>
@@ -578,11 +580,15 @@ const PublicationsArchive = () => {
                   variant="secondary"
                   size="sm"
                   onClick={() => setVisibleCount(filtered.length)}
+                  disabled={visible.length >= filtered.length}
                 >
                   Load all ({filtered.length})
                 </Button>
               </div>
-            )}
+              <span className="text-xs md:text-sm text-muted-foreground">
+                Last updated: {lastUpdatedLabel}
+              </span>
+            </div>
           </>
         )}
       </main>
