@@ -101,7 +101,7 @@ const Blog = () => {
     <section
       id="blog"
       className={
-        isArchive ? "pt-6 md:pt-10 pb-12 bg-background" : "py-4 md:py-8 bg-background"
+        isArchive ? "pt-6 md:pt-10 pb-12 bg-background" : "pt-0 pb-6 md:pt-2 md:pb-8 bg-background"
       }
     >
       <div className="container mx-auto px-4">
@@ -117,13 +117,13 @@ const Blog = () => {
             )}
           </div>
         ) : (
-          <div className="space-y-4 mb-6">
+          <div className="space-y-2.5 mb-4">
             <div className="relative overflow-hidden rounded-2xl border border-border/60 bg-gradient-to-br from-primary/10 via-background to-background shadow-sm">
               <div className="pointer-events-none absolute inset-0 opacity-80 dark:opacity-30 clouds-motion mix-blend-multiply dark:mix-blend-screen" />
               <div className="pointer-events-none absolute -left-16 -top-20 h-52 w-52 rounded-full bg-primary/25 blur-3xl opacity-80 animate-orb animate-orb-slow" />
               <div className="pointer-events-none absolute -right-10 bottom-4 h-48 w-48 rounded-full bg-accent/25 blur-3xl opacity-80 animate-orb animate-orb-medium" />
               <div className="pointer-events-none absolute left-1/3 top-1/2 h-44 w-44 -translate-y-1/2 rounded-full bg-primary/20 blur-3xl opacity-80 animate-orb animate-orb-fast" />
-              <div className="relative px-6 pt-6 pb-10 md:px-10 md:pt-10 md:pb-12 flex flex-col gap-6 md:flex-row md:items-center md:justify-between">
+              <div className="relative px-5 pt-4 pb-8 md:px-9 md:pt-8 md:pb-10 flex flex-col gap-5 md:flex-row md:items-center md:justify-between">
                 <div className="space-y-3 max-w-2xl">
                   <div className="inline-flex items-center gap-2 rounded-full bg-primary/15 px-3 py-1 text-xs font-semibold tracking-wide">
                     2026
