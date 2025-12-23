@@ -180,10 +180,14 @@ All colors MUST be HSL.
 
 @layer utilities {
   .clouds-motion {
-    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='400' height='240' viewBox='0 0 400 240'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cpath d='M40 200l32-64 48 64 52-84 46 60 40-46 42 50' stroke='%23ffffff' stroke-width='3' stroke-linecap='round' stroke-linejoin='round' stroke-opacity='0.55'/%3E%3Ccircle cx='120' cy='140' r='6' fill='%23ffffff' fill-opacity='0.55'/%3E%3Ccircle cx='220' cy='120' r='5' fill='%23ffffff' fill-opacity='0.55'/%3E%3Ccircle cx='320' cy='160' r='7' fill='%23ffffff' fill-opacity='0.55'/%3E%3Cpath d='M260 90c0 6-5 11-11 11s-11-5-11-11 5-11 11-11 11 5 11 11z' fill='%23ffffff' fill-opacity='0.45'/%3E%3C/g%3E%3C/svg%3E");
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='400' height='240' viewBox='0 0 400 240'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cpath d='M40 200l32-64 48 64 52-84 46 60 40-46 42 50' stroke='%236b7c95' stroke-width='3' stroke-linecap='round' stroke-linejoin='round' stroke-opacity='0.45'/%3E%3Ccircle cx='120' cy='140' r='6' fill='%236b7c95' fill-opacity='0.45'/%3E%3Ccircle cx='220' cy='120' r='5' fill='%236b7c95' fill-opacity='0.45'/%3E%3Ccircle cx='320' cy='160' r='7' fill='%236b7c95' fill-opacity='0.45'/%3E%3Cpath d='M260 90c0 6-5 11-11 11s-11-5-11-11 5-11 11-11 11 5 11 11z' fill='%236b7c95' fill-opacity='0.35'/%3E%3C/g%3E%3C/svg%3E");
     background-repeat: repeat-x;
     background-size: 480px 260px;
     animation: cloudDrift 36s linear infinite;
+  }
+
+  .dark .clouds-motion {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='400' height='240' viewBox='0 0 400 240'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cpath d='M40 200l32-64 48 64 52-84 46 60 40-46 42 50' stroke='%23a7b7d5' stroke-width='3' stroke-linecap='round' stroke-linejoin='round' stroke-opacity='0.35'/%3E%3Ccircle cx='120' cy='140' r='6' fill='%23a7b7d5' fill-opacity='0.35'/%3E%3Ccircle cx='220' cy='120' r='5' fill='%23a7b7d5' fill-opacity='0.35'/%3E%3Ccircle cx='320' cy='160' r='7' fill='%23a7b7d5' fill-opacity='0.35'/%3E%3Cpath d='M260 90c0 6-5 11-11 11s-11-5-11-11 5-11 11-11 11 5 11 11z' fill='%23a7b7d5' fill-opacity='0.28'/%3E%3C/g%3E%3C/svg%3E");
   }
 
   @keyframes cloudDrift {

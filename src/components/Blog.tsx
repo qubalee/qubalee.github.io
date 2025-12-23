@@ -119,7 +119,7 @@ const Blog = () => {
         ) : (
           <div className="space-y-2.5 mb-4">
             <div className="relative overflow-hidden rounded-2xl border border-border/60 bg-gradient-to-br from-primary/10 via-background to-background shadow-sm">
-              <div className="pointer-events-none absolute inset-0 opacity-80 dark:opacity-30 clouds-motion mix-blend-multiply dark:mix-blend-screen" />
+              <div className="pointer-events-none absolute inset-0 opacity-70 dark:opacity-45 clouds-motion mix-blend-multiply dark:mix-blend-screen" />
               <div className="pointer-events-none absolute -left-16 -top-20 h-52 w-52 rounded-full bg-primary/25 blur-3xl opacity-80 animate-orb animate-orb-slow" />
               <div className="pointer-events-none absolute -right-10 bottom-4 h-48 w-48 rounded-full bg-accent/25 blur-3xl opacity-80 animate-orb animate-orb-medium" />
               <div className="pointer-events-none absolute left-1/3 top-1/2 h-44 w-44 -translate-y-1/2 rounded-full bg-primary/20 blur-3xl opacity-80 animate-orb animate-orb-fast" />
