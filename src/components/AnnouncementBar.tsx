@@ -23,7 +23,7 @@ export const AnnouncementBar = ({
   return (
     <div
       className={cn(
-        "rounded-2xl border border-border/70 bg-background shadow-sm px-5 py-4",
+        "rounded-2xl border border-amber-200 bg-amber-50 shadow-sm px-5 py-4",
         className
       )}
     >
