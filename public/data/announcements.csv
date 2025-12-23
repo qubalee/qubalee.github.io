@@ -1,3 +1,3 @@
 id,enabled,title,message,ctaLabel,ctaLink,placement
-ad1,true,GeoArabia Dashboard,Understand the Geoscientific Research Landscape of Arabia through GeoArabia Dashboard,Visit GeoArabia.com/idb,https://geoarabia.com/idb,home, blog, top
-ad2,true,Open to Collaboration,Exploring joint research and data-driven projects in digital geosciences.,Visit digitalgeosciences.com,https://digitalgeosciences.com/,research, bottom
+ad1,true,GeoArabia Dashboard,Explore the geoscientific research landscape of Arabia with the GeoArabia Dashboard.,Visit GeoArabia.com/idb,https://geoarabia.com/idb,home, blog, top
+ad2,true,Open to Collaboration,Discover collaborative research and data-driven initiatives in the field of digital geosciences.,Visit digitalgeosciences.com,https://digitalgeosciences.com/,research, bottom
