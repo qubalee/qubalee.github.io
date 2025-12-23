@@ -1,5 +1,6 @@
 import { Button } from "@/components/ui/button";
 import { cn } from "@/lib/utils";
+import { Megaphone } from "lucide-react";
 import { Link } from "react-router-dom";
 import type { ReactNode } from "react";
 
@@ -23,13 +24,16 @@ export const AnnouncementBar = ({
   return (
     <div
       className={cn(
-        "rounded-2xl border border-amber-200 bg-amber-50 shadow-sm px-5 py-4",
+        "rounded-2xl border border-amber-200 bg-amber-50 px-5 py-4",
         className
       )}
     >
       <div className="flex flex-col gap-3 md:flex-row md:items-center md:justify-between md:gap-4">
         <div className="space-y-1">
-          <p className="text-base font-semibold text-foreground">{title}</p>
+          <div className="flex items-center gap-2">
+            <Megaphone className="h-4 w-4 text-amber-600" aria-hidden="true" />
+            <p className="text-base font-semibold text-foreground">{title}</p>
+          </div>
           <p className="text-sm text-muted-foreground">{message}</p>
         </div>
         {actionsSlot ?? (
