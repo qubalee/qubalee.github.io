@@ -15,7 +15,7 @@ image:
 
 Geoscience research and education are undergoing a transformative shift, driven by rapid technological advancements and the increased accessibility of data. In this context, this webpage called "Open Geosciences" (or open-geo) is introduced as a vital resource, highlighting the critical role of open-source tools, educational resources, and collaborative initiatives in a modern geoscientific setting. It includes a wide range of software applications and educational courses designed for both novices and experienced professionals, while advocating for the principles of open access and knowledge sharing. By showcasing essential geoscience resources, Open Geosciences not only empowers researchers, educators, and students but also fosters a vibrant community committed to innovation and collaboration. This page has been updated and modified based on the work of Gosses et al [^1] to provide the most updated and relevant information, and will be updated regularly.
 
->**Note**: This page is retired; all updates will be available on [OpenGeo](https://digitalgeosciences.com/opengeo) Platform. FOr more information, [click here](https://qubalee.com/posts/2025/11/opengeo/). 
+>**Note**: This page is retired; all updates will be available on [OpenGeo](https://digitalgeosciences.com/opengeo) Platform. For more information, [click here](https://qubalee.com/posts/2025/11/opengeo/). 
 
 _____
 
