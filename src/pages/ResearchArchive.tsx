@@ -262,7 +262,7 @@ const ResearchArchive = () => {
                       className="rounded-xl border bg-card shadow-sm hover:shadow-md transition-all duration-300 relative"
                     >
                       <CardHeader className="flex flex-row items-center gap-3">
-                        <area.Icon className="w-4 h-4 text-primary/80 stroke-[1.5]" aria-hidden="true" />
+                        <area.Icon className="hidden md:inline-block w-4 h-4 text-primary/80 stroke-[1.5]" aria-hidden="true" />
                         <CardTitle className="text-xl">
                           {area.link ? (
                             <a
