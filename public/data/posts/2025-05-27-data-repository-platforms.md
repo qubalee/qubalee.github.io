@@ -1,5 +1,5 @@
 ---
-title: Management of Geological Data: Local and Cloud-Based
+title: "Management of Geological Data: Local and Cloud-Based"
 date: 2025-05-27
 permalink: /posts/2025/05/data-repository-platforms/
 authors: [Abdullah Alqubalee]

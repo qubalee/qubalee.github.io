@@ -1,5 +1,5 @@
 ---
-title: GeoArabia Dashboard: Gaining Insights into the Geosciences of Arabia
+title: "GeoArabia Dashboard: Gaining Insights into the Geosciences of Arabia"
 date: 2025-12-12
 permalink: /posts/2025/12/geoarabia-dashboard/
 authors: [Abdullah Alqubalee]

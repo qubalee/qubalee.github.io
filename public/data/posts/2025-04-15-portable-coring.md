@@ -1,5 +1,5 @@
 ---
-title: A Portable Coring Machine: Key Tools for Geological Fieldwork
+title: "A Portable Coring Machine: Key Tools for Geological Fieldwork"
 date: 2025-04-15
 permalink: /posts/2025/04/Portable-Coring-Machine/
 authors: [Abdullah Alqubalee]

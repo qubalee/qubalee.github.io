@@ -1,5 +1,5 @@
 ---
-title: Open Geosciences
+title: "Open Geosciences"
 date: 2025-04-11
 permalink: /posts/2025/04/open-geosciences/
 authors: [Abdullah Alqubalee]

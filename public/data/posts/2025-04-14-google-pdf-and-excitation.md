@@ -1,5 +1,5 @@
 ---
-title: Optimizing Research Efficiency with PDF Reader and Journal Ranking Tool Extensions
+title: "Optimizing Research Efficiency with PDF Reader and Journal Ranking Tool Extensions"
 date: 2025-04-14
 permalink: /posts/2025/04/Google-PDF-Readerand-ExCITATION/
 authors: [Abdullah Alqubalee]

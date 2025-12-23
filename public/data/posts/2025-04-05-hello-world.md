@@ -1,5 +1,5 @@
 ---
-title: Hello World: Introducing ALQUBALEE Notes
+title: "Hello World: Introducing ALQUBALEE Notes"
 date: 2025-04-05
 permalink: /posts/2025/04/hello-world/
 authors: [Abdullah Alqubalee]

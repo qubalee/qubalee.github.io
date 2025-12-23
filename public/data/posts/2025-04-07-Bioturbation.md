@@ -1,5 +1,5 @@
 ---
-title: Bioturbation Impact on Reservoir and Aquifer Properties
+title: "Bioturbation Impact on Reservoir and Aquifer Properties"
 date: 2025-04-07
 permalink: /posts/2025/04/bioturbation/
 authors: [Abdullah Alqubalee]

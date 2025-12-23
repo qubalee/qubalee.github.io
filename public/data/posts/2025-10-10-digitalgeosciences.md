@@ -1,5 +1,5 @@
 ---
-title: Digital Geosciences — Transforming Geological Data into Knowledge
+title: "Digital Geosciences — Transforming Geological Data into Knowledge"
 date: 2025-10-10
 permalink: /posts/2025/10/digitalgeosciences/
 authors: [Abdullah Alqubalee]

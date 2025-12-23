@@ -1,5 +1,5 @@
 ---
-title: Impact of Sample Size on Quantifying Bioturbation in Burrow-Related Strata
+title: "Impact of Sample Size on Quantifying Bioturbation in Burrow-Related Strata"
 date: 2025-04-11
 permalink: /posts/2025/04/quantifying-bioturbation/
 authors: [Abdullah Alqubalee]
