@@ -139,7 +139,7 @@ const ResearchArchive = () => {
         type="website"
       />
       <Navigation />
-      <main className="container mx-auto px-4 py-20">
+      <main className="container mx-auto px-4 pt-8 pb-12">
         <section className="py-0">
           <div className="mx-auto">
             <div className="text-center mb-12">
