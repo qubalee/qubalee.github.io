@@ -32,9 +32,9 @@ export const AnnouncementBar = ({
         <div className="space-y-1">
           <div className="flex items-center gap-2">
             <Megaphone className="h-4 w-4 text-amber-600" aria-hidden="true" />
-            <p className="text-base font-semibold text-foreground">{title}</p>
+            <p className="text-base font-semibold text-amber-900">{title}</p>
           </div>
-          <p className="text-sm text-muted-foreground">{message}</p>
+          <p className="text-sm text-amber-900/85">{message}</p>
         </div>
         {actionsSlot ?? (
           <Button asChild variant="outline" size="sm" className="whitespace-nowrap">

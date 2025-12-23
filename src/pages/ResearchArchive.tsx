@@ -222,7 +222,7 @@ const ResearchArchive = () => {
                                     href={area.link}
                                     target="_blank"
                                     rel="noreferrer"
-                                    className="text-primary hover:underline"
+                                    className="text-foreground hover:underline"
                                   >
                                     {area.title}
                                   </a>
@@ -269,7 +269,7 @@ const ResearchArchive = () => {
                               href={area.link}
                               target="_blank"
                               rel="noreferrer"
-                              className="text-primary hover:underline"
+                              className="text-foreground hover:underline"
                             >
                               {area.title}
                             </a>
