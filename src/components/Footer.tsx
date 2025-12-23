@@ -27,7 +27,7 @@ const Footer = () => {
             Digital Geosciences
           </a>
         </p>
-        <p className="text-xs text-muted-foreground">GeoNote v0.1.0</p>
+        <p className="text-xs text-muted-foreground">GeoNotes v0.1.0</p>
       </div>
     </div>
   </div>
