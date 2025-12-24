@@ -6,6 +6,7 @@ import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import {
   ArrowDown,
+  ArrowRight,
   ArrowUp,
   ArrowUpDown,
   BookOpenText,
@@ -28,7 +29,7 @@ import {
 } from "@/components/ui/table";
 import { SEOHead } from "@/components/SEOHead";
 import { useSiteInfo } from "@/hooks/useSiteInfo";
-import { useLocation, useNavigate } from "react-router-dom";
+import { Link, useLocation, useNavigate } from "react-router-dom";
 
 type PublicationRow = {
   title: string;
@@ -299,8 +300,9 @@ const PublicationsArchive = () => {
 
         {!isLoading && !error && (
           <div className="max-w-7xl mx-auto mb-6 flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
-            <div className="w-full sm:max-w-xl">
+            <div className="w-full sm:max-w-3xl flex flex-col gap-3 sm:flex-row sm:items-center sm:gap-3">
               <Input
+                className="flex-1"
                 value={searchQuery}
                 onChange={(e) => {
                   setSearchQuery(e.target.value);
@@ -308,6 +310,15 @@ const PublicationsArchive = () => {
                 }}
                 placeholder="Search publications by title, author, venue, or year..."
               />
+              <Link to="/research-archive" className="w-full sm:w-auto">
+                <Button
+                  variant="outline"
+                  className="w-full sm:w-auto inline-flex items-center gap-2 justify-center"
+                >
+                  Explore research areas
+                  <ArrowRight className="h-4 w-4" />
+                </Button>
+              </Link>
             </div>
             <div className="flex items-center justify-end gap-2">
               <Button

@@ -1,10 +1,13 @@
 import profilePlaceholder from "@/assets/profile-placeholder.jpg";
 import { useSiteInfo } from "@/hooks/useSiteInfo";
 import { useAboutContent } from "@/hooks/useAboutContent";
+import { useSectionsConfig } from "@/hooks/useSectionsConfig";
 import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
 import { Skeleton } from "@/components/ui/skeleton";
+import { Button } from "@/components/ui/button";
 import { useCsvData } from "@/hooks/useCsvData";
+import { Link as RouterLink } from "react-router-dom";
 import {
   Mail,
   Github,
@@ -16,6 +19,7 @@ import {
   Database,
   Link,
   BookOpen,
+  ArrowRight,
 } from "lucide-react";
 import type { LucideIcon } from "lucide-react";
 
@@ -28,8 +32,9 @@ type SocialLinkRow = {
 const About = () => {
   const { name, role, photo, email } = useSiteInfo();
   const { content, error } = useAboutContent();
+  const { sections } = useSectionsConfig();
   const { data: socialLinks } = useCsvData<SocialLinkRow>("/data/social-links.csv");
-  
+
   const renderedContent = (content ?? "")
     .replace(/\{\{name\}\}/g, name)
     .replace(/\{\{role\}\}/g, role);
@@ -59,6 +64,9 @@ const About = () => {
     Link,
     BookOpen,
   };
+
+  const researchHref = sections.find((section) => section.id === "research")?.href ?? "/research-archive";
+  const publicationsHref = sections.find((section) => section.id === "publications")?.href ?? "/publications";
 
   const getSocialIcon = (iconKey?: string, label?: string): LucideIcon => {
     if (iconKey && iconMap[iconKey]) {
@@ -102,11 +110,35 @@ const About = () => {
               <p className="text-destructive">{error}</p>
             )}
             {content && (
-              <div className="prose prose-slate dark:prose-invert max-w-none">
-                <ReactMarkdown remarkPlugins={[remarkGfm]}>
-                  {renderedContent}
-                </ReactMarkdown>
-              </div>
+              <>
+                <div className="prose prose-slate dark:prose-invert max-w-none">
+                  <ReactMarkdown remarkPlugins={[remarkGfm]}>
+                    {renderedContent}
+                  </ReactMarkdown>
+                </div>
+                <div className="mt-5 flex flex-wrap gap-3">
+                  <RouterLink to={researchHref}>
+                    <Button
+                      size="lg"
+                      variant="outline"
+                      className="group px-5 inline-flex items-center gap-2"
+                    >
+                      Explore research areas
+                      <ArrowRight className="h-4 w-4 shrink-0 text-current transition-transform duration-200 group-hover:translate-x-1" />
+                    </Button>
+                  </RouterLink>
+                  <RouterLink to={publicationsHref}>
+                    <Button
+                      size="lg"
+                      variant="outline"
+                      className="group px-5 inline-flex items-center gap-2"
+                    >
+                      View publications
+                      <ArrowRight className="h-4 w-4 shrink-0 text-current transition-transform duration-200 group-hover:translate-x-1" />
+                    </Button>
+                  </RouterLink>
+                </div>
+              </>
             )}
 
             {socialEntries.length > 0 && (

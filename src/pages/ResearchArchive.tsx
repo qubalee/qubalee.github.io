@@ -5,7 +5,7 @@ import { Badge } from "@/components/ui/badge";
 import { Skeleton } from "@/components/ui/skeleton";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
-import { Globe, MessageSquare, Eye, Database } from "lucide-react";
+import { Globe, MessageSquare, Eye, Database, ArrowRight } from "lucide-react";
 import { useCsvData } from "@/hooks/useCsvData";
 import { useMemo, useState } from "react";
 import {
@@ -19,6 +19,7 @@ import {
 import AnnouncementBar from "@/components/AnnouncementBar";
 import { SEOHead } from "@/components/SEOHead";
 import { useSiteInfo } from "@/hooks/useSiteInfo";
+import { Link } from "react-router-dom";
 
 type ResearchRow = {
   iconKey?: string;
@@ -163,15 +164,27 @@ const ResearchArchive = () => {
             )}
 
             {!isLoading && (
-              <div className="max-w-4xl mx-auto mb-8">
-                <Input
-                  value={searchQuery}
-                  onChange={(e) => {
-                    setSearchQuery(e.target.value);
-                    setVisibleCount(15);
-                  }}
-                  placeholder="Search research areas by title, description, or status..."
-                />
+              <div className="max-w-5xl mx-auto mb-8">
+                <div className="flex flex-col gap-3 md:flex-row md:items-center md:gap-4">
+                  <Input
+                    className="flex-1"
+                    value={searchQuery}
+                    onChange={(e) => {
+                      setSearchQuery(e.target.value);
+                      setVisibleCount(15);
+                    }}
+                    placeholder="Search research areas by title, description, or status..."
+                  />
+                  <Link to="/publications" className="md:w-auto w-full">
+                    <Button
+                      variant="outline"
+                      className="w-full md:w-auto inline-flex items-center gap-2 justify-center"
+                    >
+                      View publications
+                      <ArrowRight className="h-4 w-4" />
+                    </Button>
+                  </Link>
+                </div>
               </div>
             )}
 
