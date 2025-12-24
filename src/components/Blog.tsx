@@ -125,11 +125,6 @@ const Blog = () => {
               <div className="pointer-events-none absolute left-1/3 top-1/2 h-44 w-44 -translate-y-1/2 rounded-full bg-primary/20 blur-3xl opacity-80 animate-orb animate-orb-fast" />
               <div className="relative px-4 pt-3 pb-8 md:px-9 md:pt-8 md:pb-10 flex flex-col gap-5 md:flex-row md:items-center md:justify-between">
                 <div className="space-y-3 max-w-2xl">
-                  <div className="inline-flex items-center gap-2 rounded-full bg-primary/15 px-3 py-1 text-xs font-semibold tracking-wide">
-                    2026
-                    <span className="w-1.5 h-1.5 rounded-full bg-primary/70 dark:bg-accent" />
-                    v2.0.0
-                  </div>
                   <h2 className="text-3xl md:text-4xl font-bold text-foreground leading-tight">
                     {headingText}
                   </h2>
