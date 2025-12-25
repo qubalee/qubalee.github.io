@@ -13,7 +13,8 @@ permissions:
 jobs:
   refresh:
     runs-on: ubuntu-latest
-
+    env:
+      OPENALEX_MAILTO: ${{ secrets.OPENALEX_MAILTO }}
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
