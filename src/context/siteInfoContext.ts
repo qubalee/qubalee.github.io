@@ -15,7 +15,7 @@ export const defaultSiteInfo: SiteInfo = {
   role: "",
   tagline: "",
   department: "",
-  photo: "/src/assets/profile-placeholder.jpg",
+  photo: "",
   email: "",
   office: "",
 };
